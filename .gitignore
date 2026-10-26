@@ -1,0 +1,20 @@
+# Real data parsed from your private vault — never commit
+public/data.json
+public/data.json.*
+
+# Vercel project linkage / secrets
+.vercel
+.env
+.env.*
+
+node_modules
+.DS_Store
+.env*
+
+# Old static export with real data inlined; local launch config
+public/export.html
+.claude/
+.claude-launch-note
+
+# Personal curated data (injuries, goals, plan) and vault path
+scripts/curated.local.mjs

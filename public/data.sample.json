@@ -1,0 +1,7287 @@
+{
+ "generatedAt": "2026-08-16T12:00:00.000Z",
+ "athlete": {
+  "name": "Demo Runner"
+ },
+ "phase": "UTMB 专项期 · 爬升（7/13 – 10/25）",
+ "weeklyRunTarget": [
+  55,
+  70
+ ],
+ "weight": {
+  "current": 66.5,
+  "asOf": "2026-08-15",
+  "target": "65-67kg"
+ },
+ "dietTarget": {
+  "kcal": 3000,
+  "protein": 150,
+  "carb": 380,
+  "fat": 85
+ },
+ "injuries": [
+  {
+   "name": "Right Achilles tendinopathy",
+   "status": "resolved",
+   "note": "Cleared after 8-week eccentric loading block. Monitor under speed work.",
+   "test": "Single-leg hops 25/25"
+  },
+  {
+   "name": "Hip flexor tightness (L)",
+   "status": "treating",
+   "note": "Post-Hyrox sled/lunge soreness. Daily couch stretch + hip CARs."
+  },
+  {
+   "name": "Plantar fasciitis (L), mild",
+   "status": "watching",
+   "note": "AM stiffness only, pain-free running. Calf raises + frozen-bottle roll.",
+   "test": "AM stiffness 2/10"
+  }
+ ],
+ "goals": {
+  "firstPriority": [
+   "Vertical durability + ultra fueling (UTMB)",
+   "Hyrox station-transfer strength",
+   "Marathon-specific aerobic base (Osaka)",
+   "Injury-free across a 3-race season"
+  ],
+  "performance": [
+   {
+    "year": "2026",
+    "goal": "UTMB Chiang Mai 50K (Nov 28) — first ultra finish, target sub-9:00"
+   },
+   {
+    "year": "2026",
+    "goal": "Hyrox Paris (Dec 20) — sub-1:10 Open"
+   },
+   {
+    "year": "2027",
+    "goal": "Osaka Marathon — sub-2:55 (current PB 2:58:32)"
+   }
+  ]
+ },
+ "pbs": [
+  {
+   "dist": "5K",
+   "time": "16:58",
+   "pace": "3:24/km",
+   "date": "2025-10-12",
+   "note": ""
+  },
+  {
+   "dist": "10K",
+   "time": "35:12",
+   "pace": "3:31/km",
+   "date": "2025-11-09",
+   "note": ""
+  },
+  {
+   "dist": "Half",
+   "time": "1:18:40",
+   "pace": "3:44/km",
+   "date": "2026-02-01",
+   "note": ""
+  },
+  {
+   "dist": "Marathon",
+   "time": "2:58:32",
+   "pace": "4:14/km",
+   "date": "2026-03-15",
+   "note": "Sub-3 debut"
+  }
+ ],
+ "physio": {
+  "height": 176,
+  "age": 33,
+  "lthr": 175,
+  "maxHr": "190-192",
+  "vo2max": 59,
+  "predicted": {
+   "marathon": "2:53:40",
+   "half": "1:21:30",
+   "10k": "36:10",
+   "5k": "17:20"
+  },
+  "hrZones": [
+   {
+    "zone": "Z1",
+    "bpm": "125-142",
+    "use": "Recovery"
+   },
+   {
+    "zone": "Z2",
+    "bpm": "142-158",
+    "use": "Easy / Long Run"
+   },
+   {
+    "zone": "Z3",
+    "bpm": "158-168",
+    "use": "Marathon pace"
+   },
+   {
+    "zone": "Z4",
+    "bpm": "168-182",
+    "use": "Threshold"
+   },
+   {
+    "zone": "Z5",
+    "bpm": ">182",
+    "use": "VO2max / race"
+   }
+  ],
+  "ltPace": "3:58-4:05/km",
+  "easyPace": "4:45-5:10/km @ HR 148-155",
+  "baselines": {
+   "sleep": "78-93 (avg 86)",
+   "rhr": "42-48 bpm",
+   "hrv": "58-78ms (avg 68)"
+  },
+  "nutrition": {
+   "protein": "~2.0 g/kg",
+   "calories": "~3100-3400 kcal/day (high-volume weeks)",
+   "deficit": "Maintenance — Hyrox strength phase, no cut",
+   "notes": "Beetroot juice pre-race, creatine 5g/day, iron + vitamin D"
+  }
+ },
+ "races": {
+  "upcoming": [
+   {
+    "name": "UTMB Chiang Mai 50K",
+    "date": "2026-11-28",
+    "detail": "50km · 3600m gain · First 50K",
+    "tag": "A race",
+    "accent": "trail",
+    "anchor": "trail"
+   },
+   {
+    "name": "Hyrox Paris",
+    "date": "2026-12-20",
+    "detail": "Open division · 8km run + 8 stations · 3wk after UTMB",
+    "tag": "B race",
+    "accent": "hyrox",
+    "anchor": "hyrox"
+   },
+   {
+    "name": "Osaka Marathon",
+    "date": "2027-02-28",
+    "detail": "Season goal · Target sub-2:55 · flat, fast course",
+    "tag": "Season goal",
+    "accent": "marathon",
+    "anchor": "macro"
+   }
+  ]
+ },
+ "trail": {
+  "race": {
+   "name": "UTMB Chiang Mai 50K",
+   "date": "2026-11-28",
+   "distance": 50,
+   "elevation": 3600
+  },
+  "longest": {
+   "date": "2026-08-02",
+   "distance": 18.4,
+   "elevation": 540,
+   "note": "Longest single run so far — 15% of race vert"
+  },
+  "progression": [
+   {
+    "label": "7/12",
+    "distance": 14.2,
+    "elevation": 320,
+    "status": "done"
+   },
+   {
+    "label": "7/26",
+    "distance": 16.5,
+    "elevation": 460,
+    "status": "done"
+   },
+   {
+    "label": "8/2",
+    "distance": 18.4,
+    "elevation": 540,
+    "status": "done"
+   },
+   {
+    "label": "9/6",
+    "distance": 25,
+    "elevation": 900,
+    "status": "next"
+   },
+   {
+    "label": "10/4",
+    "distance": 32,
+    "elevation": 1500,
+    "status": "plan"
+   },
+   {
+    "label": "11/1",
+    "distance": 38,
+    "elevation": 2200,
+    "status": "plan"
+   },
+   {
+    "label": "Race",
+    "distance": 50,
+    "elevation": 3600,
+    "status": "race"
+   }
+  ],
+  "plan": [
+   {
+    "week": "W29",
+    "date": "7/12",
+    "target": "14.2km / 320m",
+    "status": "done",
+    "note": "First hill long run of the block"
+   },
+   {
+    "week": "W31",
+    "date": "7/26",
+    "target": "16.5km / 460m",
+    "status": "done",
+    "note": "Uphill effort-based, downhill form drill"
+   },
+   {
+    "week": "W32",
+    "date": "8/2",
+    "target": "18.4km / 540m",
+    "status": "done",
+    "note": "Longest to date, clean legs next day"
+   },
+   {
+    "week": "W36",
+    "date": "9/6",
+    "target": "25km / 900m",
+    "status": "next",
+    "note": "Vertical-focused long run, poles introduced"
+   },
+   {
+    "week": "W40",
+    "date": "10/4",
+    "target": "32km / 1500m",
+    "status": "plan",
+    "note": "Back-to-back long run weekend, day-2 tired-legs practice"
+   },
+   {
+    "week": "W44",
+    "date": "11/1",
+    "target": "38km / 2200m",
+    "status": "plan",
+    "note": "Final big vert weekend before taper, race-nutrition test"
+   },
+   {
+    "week": "Race",
+    "date": "11/28",
+    "target": "50km / 3600m",
+    "status": "race",
+    "note": "UTMB Chiang Mai — effort-based, not chasing time"
+   }
+  ],
+  "gaps": [
+   {
+    "name": "Vertical gain durability",
+    "sev": "high",
+    "note": "Longest run elevation (540m) is 15% of race total (3600m) — needs 3-4 more big vert weekends"
+   },
+   {
+    "name": "Ultra fueling / pacing",
+    "sev": "high",
+    "note": "No run past 3h yet; race is likely an 8-11h effort"
+   },
+   {
+    "name": "Downhill braking economy",
+    "sev": "mid",
+    "note": "Quad eccentric load still fatigues faster than uphill"
+   }
+  ],
+  "downhill": [
+   "Short quick steps",
+   "Lower CoG, soft knees",
+   "Quad + glute braking",
+   "Poles on steep climbs to save legs for the back half"
+  ],
+  "ankle": [
+   {
+    "date": "7/19",
+    "right": 24,
+    "left": 21
+   },
+   {
+    "date": "8/9",
+    "right": 29,
+    "left": 27
+   }
+  ],
+  "ankleTarget": 30,
+  "verdict": "Vertical volume is the limiter, not distance. Need 3-4 more big elevation weekends before Nov 28 — downhill economy and multi-hour fueling are the other two gaps."
+ },
+ "hyrox": {
+  "status": "Prep",
+  "race": {
+   "name": "Hyrox Paris",
+   "date": "2026-12-20",
+   "location": "Paris, France"
+  },
+  "statusNote": "Only 3 weeks between UTMB Chiang Mai (Nov 28) and Hyrox Paris (Dec 20) — this block is recovery-then-sharpen, not a fitness peak. Open division, not chasing a time.",
+  "estimate": {
+   "likely": "1:08:00 – 1:12:00 (assumes normal UTMB recovery)",
+   "optimistic": "~1:05:30",
+   "conservative": "~1:16:00"
+  },
+  "profile": "Running top 8% · stations top 40%",
+  "radar": [
+   {
+    "station": "Run 8×1km",
+    "score": 95
+   },
+   {
+    "station": "Rowing",
+    "score": 85
+   },
+   {
+    "station": "SkiErg",
+    "score": 72
+   },
+   {
+    "station": "Farmers Carry",
+    "score": 68
+   },
+   {
+    "station": "Lunges",
+    "score": 60
+   },
+   {
+    "station": "Sled Push",
+    "score": 45
+   },
+   {
+    "station": "Burpee Broad Jump",
+    "score": 40
+   },
+   {
+    "station": "Sled Pull",
+    "score": 38
+   },
+   {
+    "station": "Wall Balls",
+    "score": 35
+   }
+  ],
+  "bottlenecks": [
+   {
+    "rank": 1,
+    "name": "Sled push/pull power",
+    "note": "Lower-body max-strength ceiling caps sled speed"
+   },
+   {
+    "rank": 2,
+    "name": "Wall ball endurance",
+    "note": "Shoulder/quad fatigue resistance under high HR"
+   },
+   {
+    "rank": 3,
+    "name": "Burpee broad jump transitions",
+    "note": "Technical efficiency + hip power"
+   }
+  ],
+  "roi": "Heavy sled + wall-ball EMOM 2x/week can cut 6-9min off the finish estimate",
+  "baselines": [
+   {
+    "station": "Run 8×1km",
+    "date": "7/31",
+    "detail": "8×1km @ 3:55-4:05, 组间慢跑1分 — 全场最强项",
+    "value": 240,
+    "target": 225,
+    "unit": "min/km",
+    "dir": "lower"
+   },
+   {
+    "station": "Rowing",
+    "date": "7/10",
+    "detail": "1000m time trial 3:28 (1:44/500m)",
+    "value": 208,
+    "target": 190,
+    "unit": "s",
+    "dir": "lower"
+   },
+   {
+    "station": "SkiErg",
+    "date": "7/24",
+    "detail": "1000m time trial 3:52 (1:56/500m)",
+    "value": 232,
+    "target": 210,
+    "unit": "s",
+    "dir": "lower"
+   },
+   {
+    "station": "Farmers Carry",
+    "date": "7/19",
+    "detail": "2×40m @ 40kg/手, 未计时, 握力无感",
+    "value": 40,
+    "target": 48,
+    "unit": "kg",
+    "dir": "higher"
+   },
+   {
+    "station": "Lunges",
+    "date": "7/26",
+    "detail": "行走箭步蹲 8×25m @ 20kg, 后半程臀发力不足",
+    "value": 20,
+    "target": 30,
+    "unit": "kg",
+    "dir": "higher"
+   },
+   {
+    "station": "Sled Push",
+    "date": "8/2",
+    "detail": "10m @ 75kg (体重+9kg), 起步慢, 末段顶髋",
+    "value": 75,
+    "target": 90,
+    "unit": "kg",
+    "dir": "higher"
+   },
+   {
+    "station": "Burpee Broad Jump",
+    "date": "7/31",
+    "detail": "10次, 最远 2.1m, 落地缓冲慢",
+    "value": 2.1,
+    "target": 2.5,
+    "unit": "m",
+    "dir": "higher"
+   },
+   {
+    "station": "Sled Pull",
+    "date": "8/6",
+    "detail": "10m @ 70kg, 拉绳拖拽, 步频掉",
+    "value": 70,
+    "target": 85,
+    "unit": "kg",
+    "dir": "higher"
+   },
+   {
+    "station": "Wall Balls",
+    "date": "7/28",
+    "detail": "30次 @ 6kg, 计时 62s, 深蹲位不稳",
+    "value": 62,
+    "target": 45,
+    "unit": "s",
+    "dir": "lower"
+   }
+  ]
+ },
+ "kpi": {
+  "acwr": {
+   "value": 1.02,
+   "date": "2026-08-16",
+   "source": "model"
+  },
+  "vo2max": {
+   "value": 58.8,
+   "date": "2026-08-16"
+  },
+  "balStreak": {
+   "value": 10,
+   "date": "2026-08-16"
+  },
+  "currentWeekKm": 62,
+  "currentWeekLabel": "2026-W33"
+ },
+ "recovery": [
+  {
+   "date": "2026-07-18",
+   "sleep": 87,
+   "rhr": 46,
+   "hrv": 70,
+   "hrvStatus": "BALANCED",
+   "readiness": 7,
+   "acwr": 0.96,
+   "vo2": 58,
+   "balStreak": 15
+  },
+  {
+   "date": "2026-07-19",
+   "sleep": 83,
+   "rhr": 47,
+   "hrv": 75,
+   "hrvStatus": "BALANCED",
+   "readiness": 7,
+   "acwr": 1.11,
+   "vo2": 58,
+   "balStreak": 16
+  },
+  {
+   "date": "2026-07-20",
+   "sleep": 81,
+   "rhr": 45,
+   "hrv": 69,
+   "hrvStatus": "BALANCED",
+   "readiness": 8,
+   "acwr": 0.94,
+   "vo2": 58,
+   "balStreak": 17
+  },
+  {
+   "date": "2026-07-21",
+   "sleep": 84,
+   "rhr": 42,
+   "hrv": 69,
+   "hrvStatus": "BALANCED",
+   "readiness": 8,
+   "acwr": 0.96,
+   "vo2": 58,
+   "balStreak": 18
+  },
+  {
+   "date": "2026-07-22",
+   "sleep": 86,
+   "rhr": 47,
+   "hrv": 67,
+   "hrvStatus": "BALANCED",
+   "readiness": 7,
+   "acwr": 0.93,
+   "vo2": 58,
+   "balStreak": 19
+  },
+  {
+   "date": "2026-07-23",
+   "sleep": 85,
+   "rhr": 48,
+   "hrv": 72,
+   "hrvStatus": "BALANCED",
+   "readiness": 7,
+   "acwr": 0.99,
+   "vo2": 58,
+   "balStreak": 20
+  },
+  {
+   "date": "2026-07-24",
+   "sleep": 82,
+   "rhr": 48,
+   "hrv": 72,
+   "hrvStatus": "BALANCED",
+   "readiness": 7,
+   "acwr": 1.19,
+   "vo2": 58.2,
+   "balStreak": 21
+  },
+  {
+   "date": "2026-07-25",
+   "sleep": 80,
+   "rhr": 45,
+   "hrv": 64,
+   "hrvStatus": "BALANCED",
+   "readiness": 8,
+   "acwr": 0.88,
+   "vo2": 58.2,
+   "balStreak": 22
+  },
+  {
+   "date": "2026-07-26",
+   "sleep": 91,
+   "rhr": 45,
+   "hrv": 69,
+   "hrvStatus": "BALANCED",
+   "readiness": 9,
+   "acwr": 1.02,
+   "vo2": 58.2,
+   "balStreak": 23
+  },
+  {
+   "date": "2026-07-27",
+   "sleep": 87,
+   "rhr": 43,
+   "hrv": 76,
+   "hrvStatus": "BALANCED",
+   "readiness": 8,
+   "acwr": 0.96,
+   "vo2": 58.2,
+   "balStreak": 24
+  },
+  {
+   "date": "2026-07-28",
+   "sleep": 80,
+   "rhr": 42,
+   "hrv": 74,
+   "hrvStatus": "BALANCED",
+   "readiness": 8,
+   "acwr": 1.04,
+   "vo2": 58.2,
+   "balStreak": 25
+  },
+  {
+   "date": "2026-07-29",
+   "sleep": 81,
+   "rhr": 43,
+   "hrv": 72,
+   "hrvStatus": "BALANCED",
+   "readiness": 8,
+   "acwr": 1.05,
+   "vo2": 58.2,
+   "balStreak": 26
+  },
+  {
+   "date": "2026-07-30",
+   "sleep": 85,
+   "rhr": 45,
+   "hrv": 68,
+   "hrvStatus": "BALANCED",
+   "readiness": 8,
+   "acwr": 1.15,
+   "vo2": 58.4,
+   "balStreak": 27
+  },
+  {
+   "date": "2026-07-31",
+   "sleep": 83,
+   "rhr": 45,
+   "hrv": 73,
+   "hrvStatus": "BALANCED",
+   "readiness": 8,
+   "acwr": 1.15,
+   "vo2": 58.4,
+   "balStreak": 28
+  },
+  {
+   "date": "2026-08-01",
+   "sleep": 82,
+   "rhr": 43,
+   "hrv": 71,
+   "hrvStatus": "BALANCED",
+   "readiness": 8,
+   "acwr": 1.22,
+   "vo2": 58.4,
+   "balStreak": 29
+  },
+  {
+   "date": "2026-08-02",
+   "sleep": 82,
+   "rhr": 47,
+   "hrv": 62,
+   "hrvStatus": "BALANCED",
+   "readiness": 7,
+   "acwr": 1.21,
+   "vo2": 58.4,
+   "balStreak": 30
+  },
+  {
+   "date": "2026-08-03",
+   "sleep": 84,
+   "rhr": 49,
+   "hrv": 57,
+   "hrvStatus": "UNBALANCED",
+   "readiness": 5,
+   "acwr": 1.1,
+   "vo2": 58.4,
+   "balStreak": 0
+  },
+  {
+   "date": "2026-08-04",
+   "sleep": 82,
+   "rhr": 49,
+   "hrv": 54,
+   "hrvStatus": "UNBALANCED",
+   "readiness": 5,
+   "acwr": 1.32,
+   "vo2": 58.4,
+   "balStreak": 0
+  },
+  {
+   "date": "2026-08-05",
+   "sleep": 83,
+   "rhr": 48,
+   "hrv": 48,
+   "hrvStatus": "UNBALANCED",
+   "readiness": 5,
+   "acwr": 1.09,
+   "vo2": 58.6,
+   "balStreak": 0
+  },
+  {
+   "date": "2026-08-06",
+   "sleep": 82,
+   "rhr": 50,
+   "hrv": 50,
+   "hrvStatus": "UNBALANCED",
+   "readiness": 5,
+   "acwr": 1.08,
+   "vo2": 58.6,
+   "balStreak": 0
+  },
+  {
+   "date": "2026-08-07",
+   "sleep": 91,
+   "rhr": 44,
+   "hrv": 71,
+   "hrvStatus": "BALANCED",
+   "readiness": 9,
+   "acwr": 1.03,
+   "vo2": 58.6,
+   "balStreak": 1
+  },
+  {
+   "date": "2026-08-08",
+   "sleep": 82,
+   "rhr": 43,
+   "hrv": 75,
+   "hrvStatus": "BALANCED",
+   "readiness": 8,
+   "acwr": 1.06,
+   "vo2": 58.6,
+   "balStreak": 2
+  },
+  {
+   "date": "2026-08-09",
+   "sleep": 91,
+   "rhr": 43,
+   "hrv": 73,
+   "hrvStatus": "BALANCED",
+   "readiness": 9,
+   "acwr": 1.02,
+   "vo2": 58.6,
+   "balStreak": 3
+  },
+  {
+   "date": "2026-08-10",
+   "sleep": 80,
+   "rhr": 43,
+   "hrv": 60,
+   "hrvStatus": "BALANCED",
+   "readiness": 8,
+   "acwr": 1.04,
+   "vo2": 58.6,
+   "balStreak": 4
+  },
+  {
+   "date": "2026-08-11",
+   "sleep": 85,
+   "rhr": 45,
+   "hrv": 64,
+   "hrvStatus": "BALANCED",
+   "readiness": 8,
+   "acwr": 1.1,
+   "vo2": 58.8,
+   "balStreak": 5
+  },
+  {
+   "date": "2026-08-12",
+   "sleep": 85,
+   "rhr": 45,
+   "hrv": 64,
+   "hrvStatus": "BALANCED",
+   "readiness": 8,
+   "acwr": 0.86,
+   "vo2": 58.8,
+   "balStreak": 6
+  },
+  {
+   "date": "2026-08-13",
+   "sleep": 80,
+   "rhr": 47,
+   "hrv": 74,
+   "hrvStatus": "BALANCED",
+   "readiness": 7,
+   "acwr": 1.2,
+   "vo2": 58.8,
+   "balStreak": 7
+  },
+  {
+   "date": "2026-08-14",
+   "sleep": 85,
+   "rhr": 46,
+   "hrv": 63,
+   "hrvStatus": "BALANCED",
+   "readiness": 7,
+   "acwr": 0.93,
+   "vo2": 58.8,
+   "balStreak": 8
+  },
+  {
+   "date": "2026-08-15",
+   "sleep": 80,
+   "rhr": 45,
+   "hrv": 63,
+   "hrvStatus": "BALANCED",
+   "readiness": 8,
+   "acwr": 1.18,
+   "vo2": 58.8,
+   "balStreak": 9
+  },
+  {
+   "date": "2026-08-16",
+   "sleep": 80,
+   "rhr": 44,
+   "hrv": 66,
+   "hrvStatus": "BALANCED",
+   "readiness": 8,
+   "acwr": 0.94,
+   "vo2": 58.8,
+   "balStreak": 10
+  }
+ ],
+ "strength": {
+  "progress": [
+   {
+    "tier": "main",
+    "name": "Barbell Hip Thrust",
+    "start": "40kg",
+    "current": "70kg×4×10",
+    "vl": "1,200→2,800 (+133%)",
+    "next": "Try 75kg×3×10"
+   },
+   {
+    "tier": "main",
+    "name": "Trap Bar Deadlift",
+    "start": "60kg×3×8",
+    "current": "100kg×4×6",
+    "vl": "1,440→2,400 (+67%)",
+    "next": "Add 3rd heavy set @105kg"
+   },
+   {
+    "tier": "main",
+    "name": "Weighted Pull-up",
+    "start": "+5kg×4×6",
+    "current": "+15kg×4×8",
+    "vl": "120→480 (+300%)",
+    "next": "Hold volume, chase +17.5kg"
+   },
+   {
+    "tier": "accessory",
+    "name": "DB Shoulder Press",
+    "start": "10kg×3×10",
+    "current": "16kg×4×8",
+    "vl": "300→512 (+71%)",
+    "next": "Add 5th rep at 16kg"
+   },
+   {
+    "tier": "accessory",
+    "name": "Lateral Raise",
+    "start": "5kg×12×3",
+    "current": "7kg×3×15",
+    "vl": "180→315 (+75%)",
+    "next": "15 reps clean then 8kg"
+   }
+  ],
+  "vlHistory": [
+   {
+    "name": "Barbell Hip Thrust",
+    "tier": "main",
+    "points": [
+     {
+      "week": "W25",
+      "date": "6/14",
+      "scheme": "40×10×3",
+      "vl": 1200
+     },
+     {
+      "week": "W27",
+      "date": "6/28",
+      "scheme": "50×10×3",
+      "vl": 1500
+     },
+     {
+      "week": "W29",
+      "date": "7/12",
+      "scheme": "55×10×4",
+      "vl": 2200
+     },
+     {
+      "week": "W30",
+      "date": "7/19",
+      "scheme": "60×10×4",
+      "vl": 2400
+     },
+     {
+      "week": "W32",
+      "date": "8/2",
+      "scheme": "65×10×4",
+      "vl": 2600
+     },
+     {
+      "week": "W33",
+      "date": "8/9",
+      "scheme": "70×10×4",
+      "vl": 2800
+     }
+    ]
+   },
+   {
+    "name": "Trap Bar Deadlift",
+    "tier": "main",
+    "points": [
+     {
+      "week": "W25",
+      "date": "6/14",
+      "scheme": "60×8×3",
+      "vl": 1440
+     },
+     {
+      "week": "W27",
+      "date": "6/28",
+      "scheme": "70×8×3",
+      "vl": 1680
+     },
+     {
+      "week": "W29",
+      "date": "7/12",
+      "scheme": "80×6×4",
+      "vl": 1920
+     },
+     {
+      "week": "W30",
+      "date": "7/19",
+      "scheme": "85×6×4",
+      "vl": 2040
+     },
+     {
+      "week": "W32",
+      "date": "8/2",
+      "scheme": "90×6×4",
+      "vl": 2160
+     },
+     {
+      "week": "W33",
+      "date": "8/9",
+      "scheme": "100×6×4",
+      "vl": 2400
+     }
+    ]
+   },
+   {
+    "name": "Weighted Pull-up",
+    "tier": "main",
+    "points": [
+     {
+      "week": "W25",
+      "date": "6/14",
+      "scheme": "+5kg×6×4",
+      "vl": 120
+     },
+     {
+      "week": "W27",
+      "date": "6/28",
+      "scheme": "+7.5kg×6×4",
+      "vl": 180
+     },
+     {
+      "week": "W29",
+      "date": "7/12",
+      "scheme": "+10kg×7×4",
+      "vl": 280
+     },
+     {
+      "week": "W30",
+      "date": "7/19",
+      "scheme": "+10kg×8×4",
+      "vl": 320
+     },
+     {
+      "week": "W32",
+      "date": "8/2",
+      "scheme": "+12.5kg×8×4",
+      "vl": 400
+     },
+     {
+      "week": "W33",
+      "date": "8/9",
+      "scheme": "+15kg×8×4",
+      "vl": 480
+     }
+    ]
+   },
+   {
+    "name": "DB Shoulder Press",
+    "tier": "accessory",
+    "points": [
+     {
+      "week": "W25",
+      "date": "6/14",
+      "scheme": "10×10×3",
+      "vl": 300
+     },
+     {
+      "week": "W28",
+      "date": "7/5",
+      "scheme": "12×10×3",
+      "vl": 360
+     },
+     {
+      "week": "W30",
+      "date": "7/19",
+      "scheme": "14×9×3",
+      "vl": 378
+     },
+     {
+      "week": "W33",
+      "date": "8/9",
+      "scheme": "16×8×4",
+      "vl": 512
+     }
+    ]
+   },
+   {
+    "name": "Lateral Raise",
+    "tier": "accessory",
+    "points": [
+     {
+      "week": "W25",
+      "date": "6/14",
+      "scheme": "5×12×3",
+      "vl": 180
+     },
+     {
+      "week": "W28",
+      "date": "7/5",
+      "scheme": "6×12×3",
+      "vl": 216
+     },
+     {
+      "week": "W31",
+      "date": "7/26",
+      "scheme": "6×15×3",
+      "vl": 270
+     },
+     {
+      "week": "W33",
+      "date": "8/9",
+      "scheme": "7×15×3",
+      "vl": 315
+     }
+    ]
+   }
+  ]
+ },
+ "weeklyRun": [
+  {
+   "week": "2026-W26",
+   "range": "Jun22-Jun28",
+   "runKm": 48,
+   "vert": 1100
+  },
+  {
+   "week": "2026-W27",
+   "range": "Jun29-Jul05",
+   "runKm": 52,
+   "vert": 1400
+  },
+  {
+   "week": "2026-W28",
+   "range": "Jul06-Jul12",
+   "runKm": 58,
+   "vert": 1800
+  },
+  {
+   "week": "2026-W29",
+   "range": "Jul13-Jul19",
+   "runKm": 45,
+   "vert": 950
+  },
+  {
+   "week": "2026-W30",
+   "range": "Jul20-Jul26",
+   "runKm": 60,
+   "vert": 2100
+  },
+  {
+   "week": "2026-W31",
+   "range": "Jul27-Aug02",
+   "runKm": 65,
+   "vert": 2400
+  },
+  {
+   "week": "2026-W32",
+   "range": "Aug03-Aug09",
+   "runKm": 68,
+   "vert": 2600
+  },
+  {
+   "week": "2026-W33",
+   "range": "Aug10-Aug16",
+   "runKm": 62,
+   "vert": 2300
+  }
+ ],
+ "intensityDist": [
+  {
+   "week": "2026-W26",
+   "easyKm": 37.4,
+   "hardKm": 10.6
+  },
+  {
+   "week": "2026-W27",
+   "easyKm": 41.6,
+   "hardKm": 10.4
+  },
+  {
+   "week": "2026-W28",
+   "easyKm": 47.6,
+   "hardKm": 10.4
+  },
+  {
+   "week": "2026-W29",
+   "easyKm": 38.2,
+   "hardKm": 6.8
+  },
+  {
+   "week": "2026-W30",
+   "easyKm": 50.4,
+   "hardKm": 9.6
+  },
+  {
+   "week": "2026-W31",
+   "easyKm": 55.2,
+   "hardKm": 9.8
+  },
+  {
+   "week": "2026-W32",
+   "easyKm": 57.8,
+   "hardKm": 10.2
+  },
+  {
+   "week": "2026-W33",
+   "easyKm": 53.3,
+   "hardKm": 8.7
+  }
+ ],
+ "keyWorkouts": [
+  {
+   "week": "W26",
+   "date": "6/25",
+   "type": "Tempo",
+   "distKm": 10.5,
+   "paceSec": 255,
+   "hr": 176
+  },
+  {
+   "week": "W26",
+   "date": "6/27",
+   "type": "Long Run",
+   "distKm": 14,
+   "paceSec": 315,
+   "hr": 152
+  },
+  {
+   "week": "W27",
+   "date": "7/2",
+   "type": "Tempo",
+   "distKm": 11,
+   "paceSec": 252,
+   "hr": 175
+  },
+  {
+   "week": "W27",
+   "date": "7/3",
+   "type": "Interval",
+   "distKm": 7.5,
+   "paceSec": 235,
+   "hr": 184
+  },
+  {
+   "week": "W27",
+   "date": "7/4",
+   "type": "Long Run",
+   "distKm": 15,
+   "paceSec": 310,
+   "hr": 151
+  },
+  {
+   "week": "W28",
+   "date": "7/9",
+   "type": "Tempo",
+   "distKm": 11.5,
+   "paceSec": 250,
+   "hr": 174
+  },
+  {
+   "week": "W28",
+   "date": "7/11",
+   "type": "Long Run",
+   "distKm": 16,
+   "paceSec": 305,
+   "hr": 152
+  },
+  {
+   "week": "W29",
+   "date": "7/16",
+   "type": "Tempo",
+   "distKm": 9,
+   "paceSec": 254,
+   "hr": 172
+  },
+  {
+   "week": "W29",
+   "date": "7/18",
+   "type": "Long Run",
+   "distKm": 12,
+   "paceSec": 308,
+   "hr": 148
+  },
+  {
+   "week": "W30",
+   "date": "7/23",
+   "type": "Tempo",
+   "distKm": 12,
+   "paceSec": 248,
+   "hr": 175
+  },
+  {
+   "week": "W30",
+   "date": "7/24",
+   "type": "Interval",
+   "distKm": 8,
+   "paceSec": 228,
+   "hr": 185
+  },
+  {
+   "week": "W30",
+   "date": "7/25",
+   "type": "Long Run",
+   "distKm": 18,
+   "paceSec": 302,
+   "hr": 153
+  },
+  {
+   "week": "W31",
+   "date": "7/30",
+   "type": "Tempo",
+   "distKm": 12,
+   "paceSec": 246,
+   "hr": 174
+  },
+  {
+   "week": "W31",
+   "date": "8/1",
+   "type": "Long Run",
+   "distKm": 19,
+   "paceSec": 300,
+   "hr": 152
+  },
+  {
+   "week": "W32",
+   "date": "8/6",
+   "type": "Tempo",
+   "distKm": 12.5,
+   "paceSec": 244,
+   "hr": 175
+  },
+  {
+   "week": "W32",
+   "date": "8/7",
+   "type": "Interval",
+   "distKm": 8.5,
+   "paceSec": 224,
+   "hr": 186
+  },
+  {
+   "week": "W32",
+   "date": "8/8",
+   "type": "Long Run",
+   "distKm": 20,
+   "paceSec": 297,
+   "hr": 153
+  },
+  {
+   "week": "W33",
+   "date": "8/13",
+   "type": "Tempo",
+   "distKm": 12,
+   "paceSec": 242,
+   "hr": 176
+  },
+  {
+   "week": "W33",
+   "date": "8/15",
+   "type": "Long Run",
+   "distKm": 20,
+   "paceSec": 295,
+   "hr": 154
+  }
+ ],
+ "recentActivities": [
+  {
+   "week": "2026-W33",
+   "day": "Mon",
+   "date": "8/10",
+   "training": "Strength (Hyrox lower + hip thrust)",
+   "duration": "70min",
+   "distance": "—",
+   "readiness": "8/10",
+   "kcal": 385
+  },
+  {
+   "week": "2026-W33",
+   "day": "Tue",
+   "date": "8/11",
+   "training": "Easy Run",
+   "duration": "55min",
+   "distance": "11.5km",
+   "readiness": "8/10",
+   "kcal": 520
+  },
+  {
+   "week": "2026-W33",
+   "day": "Wed",
+   "date": "8/12",
+   "training": "Strength (pull + carries)",
+   "duration": "65min",
+   "distance": "—",
+   "readiness": "7/10",
+   "kcal": 340
+  },
+  {
+   "week": "2026-W33",
+   "day": "Thu",
+   "date": "8/13",
+   "training": "Tempo Run",
+   "duration": "50min",
+   "distance": "12.0km",
+   "readiness": "8/10",
+   "kcal": 610
+  },
+  {
+   "week": "2026-W33",
+   "day": "Fri",
+   "date": "8/14",
+   "training": "Strength (trap bar + sled)",
+   "duration": "75min",
+   "distance": "—",
+   "readiness": "6/10",
+   "kcal": 450
+  },
+  {
+   "week": "2026-W33",
+   "day": "Sat",
+   "date": "8/15",
+   "training": "Long Run",
+   "duration": "95min",
+   "distance": "20.0km",
+   "readiness": "7/10",
+   "kcal": 780
+  }
+ ],
+ "body": {
+  "weights": [
+   {
+    "date": "2026-06-14",
+    "kg": 68,
+    "note": "Block start"
+   },
+   {
+    "date": "2026-07-15",
+    "kg": 67.2,
+    "note": "-0.8kg"
+   },
+   {
+    "date": "2026-07-21",
+    "kg": 67.1,
+    "note": "周初"
+   },
+   {
+    "date": "2026-08-05",
+    "kg": 66.9,
+    "note": "训练周"
+   },
+   {
+    "date": "2026-08-15",
+    "kg": 66.5,
+    "note": "-1.5kg total"
+   }
+  ],
+  "measurements": [
+   {
+    "date": "2026-06-14",
+    "肩围": "108",
+    "胸围": "92",
+    "上臂松": "27",
+    "上臂屈": "29",
+    "前臂": "—",
+    "腰围": "76",
+    "臀围": "91",
+    "大腿": "50",
+    "小腿": "36",
+    "体重": "68.0"
+   },
+   {
+    "date": "2026-08-04",
+    "肩围": "109",
+    "胸围": "93",
+    "上臂松": "28",
+    "上臂屈": "30",
+    "前臂": "—",
+    "腰围": "74",
+    "臀围": "90",
+    "大腿": "51",
+    "小腿": "36",
+    "体重": "66.8"
+   }
+  ]
+ },
+ "diet": {
+  "source": "sample",
+  "note": "",
+  "days": [
+   {
+    "date": "2026-07-20",
+    "totalKcal": 2639,
+    "totalProtein": 188.9,
+    "totalCarb": 281.4,
+    "totalFat": 78.2,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "07:40",
+      "kcal": 609,
+      "protein": 29.4,
+      "carb": 79.8,
+      "fat": 18.6,
+      "items": [
+       {
+        "name": "全麦面包",
+        "type": "主食",
+        "portion": "2片",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 44.8,
+        "fat": 2.8
+       },
+       {
+        "name": "水煮蛋",
+        "type": "菜",
+        "portion": "2个",
+        "kcal": 224,
+        "protein": 18.2,
+        "carb": 1.4,
+        "fat": 15.4
+       },
+       {
+        "name": "香蕉",
+        "type": "菜",
+        "portion": "1根",
+        "kcal": 126,
+        "protein": 1.4,
+        "carb": 32.2,
+        "fat": 0.4
+       },
+       {
+        "name": "黑咖啡",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 7,
+        "protein": 0,
+        "carb": 1.4,
+        "fat": 0
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:20",
+      "kcal": 896,
+      "protein": 69.3,
+      "carb": 92.4,
+      "fat": 23.9,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 336,
+        "protein": 6.3,
+        "carb": 74.2,
+        "fat": 0.8
+       },
+       {
+        "name": "清蒸鲈鱼",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 364,
+        "protein": 56,
+        "carb": 1.4,
+        "fat": 14
+       },
+       {
+        "name": "蒜蓉菠菜",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 112,
+        "protein": 4.2,
+        "carb": 8.4,
+        "fat": 6.3
+       },
+       {
+        "name": "紫菜汤",
+        "type": "汤",
+        "portion": "1碗",
+        "kcal": 84,
+        "protein": 2.8,
+        "carb": 8.4,
+        "fat": 2.8
+       }
+      ]
+     },
+     {
+      "meal": "下午加餐",
+      "time": "15:20",
+      "kcal": 364,
+      "protein": 10.4,
+      "carb": 51.8,
+      "fat": 14.4,
+      "items": [
+       {
+        "name": "拿铁",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 22.4,
+        "fat": 14
+       },
+       {
+        "name": "苹果",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 0.6,
+        "carb": 29.4,
+        "fat": 0.4
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "19:00",
+      "kcal": 770,
+      "protein": 79.8,
+      "carb": 57.4,
+      "fat": 21.3,
+      "items": [
+       {
+        "name": "红薯",
+        "type": "主食",
+        "portion": "1个",
+        "kcal": 182,
+        "protein": 2.8,
+        "carb": 42,
+        "fat": 0.3
+       },
+       {
+        "name": "烤鸡胸",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 392,
+        "protein": 72.8,
+        "carb": 1.4,
+        "fat": 7.7
+       },
+       {
+        "name": "蔬菜沙拉",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 196,
+        "protein": 4.2,
+        "carb": 14,
+        "fat": 13.3
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3000,
+    "train": "休息日"
+   },
+   {
+    "date": "2026-07-21",
+    "totalKcal": 3024,
+    "totalProtein": 189.6,
+    "totalCarb": 332.5,
+    "totalFat": 95.8,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "07:35",
+      "kcal": 700,
+      "protein": 42,
+      "carb": 81.9,
+      "fat": 19.6,
+      "items": [
+       {
+        "name": "牛肉面",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 588,
+        "protein": 33.6,
+        "carb": 81.2,
+        "fat": 11.2
+       },
+       {
+        "name": "煎蛋",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 8.4,
+        "carb": 0.7,
+        "fat": 8.4
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:30",
+      "kcal": 980,
+      "protein": 90.3,
+      "carb": 95.2,
+      "fat": 22.5,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 336,
+        "protein": 6.3,
+        "carb": 74.2,
+        "fat": 0.8
+       },
+       {
+        "name": "香煎鸡胸",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 392,
+        "protein": 72.8,
+        "carb": 1.4,
+        "fat": 8.4
+       },
+       {
+        "name": "炒西兰花",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 5.6,
+        "carb": 11.2,
+        "fat": 6.3
+       },
+       {
+        "name": "番茄蛋汤",
+        "type": "汤",
+        "portion": "1碗",
+        "kcal": 126,
+        "protein": 5.6,
+        "carb": 8.4,
+        "fat": 7
+       }
+      ]
+     },
+     {
+      "meal": "下午加餐",
+      "time": "15:20",
+      "kcal": 364,
+      "protein": 10.4,
+      "carb": 51.8,
+      "fat": 14.4,
+      "items": [
+       {
+        "name": "拿铁",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 22.4,
+        "fat": 14
+       },
+       {
+        "name": "苹果",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 0.6,
+        "carb": 29.4,
+        "fat": 0.4
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "18:30",
+      "kcal": 980,
+      "protein": 46.9,
+      "carb": 103.6,
+      "fat": 39.3,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 336,
+        "protein": 6.3,
+        "carb": 74.2,
+        "fat": 0.8
+       },
+       {
+        "name": "青椒肉丝",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 448,
+        "protein": 28,
+        "carb": 16.8,
+        "fat": 29.4
+       },
+       {
+        "name": "凉拌豆腐",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 11.2,
+        "carb": 4.2,
+        "fat": 7
+       },
+       {
+        "name": "海带汤",
+        "type": "汤",
+        "portion": "1碗",
+        "kcal": 70,
+        "protein": 1.4,
+        "carb": 8.4,
+        "fat": 2.1
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3385,
+    "train": "力量日",
+    "watchKcal": 385
+   },
+   {
+    "date": "2026-07-22",
+    "totalKcal": 2800,
+    "totalProtein": 165.2,
+    "totalCarb": 312.9,
+    "totalFat": 87.2,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "07:50",
+      "kcal": 588,
+      "protein": 25.9,
+      "carb": 66.5,
+      "fat": 24.5,
+      "items": [
+       {
+        "name": "全麦吐司",
+        "type": "主食",
+        "portion": "2片",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 44.8,
+        "fat": 2.8
+       },
+       {
+        "name": "花生酱",
+        "type": "菜",
+        "portion": "1勺",
+        "kcal": 126,
+        "protein": 4.9,
+        "carb": 4.9,
+        "fat": 10.5
+       },
+       {
+        "name": "牛奶",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 210,
+        "protein": 11.2,
+        "carb": 16.8,
+        "fat": 11.2
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:35",
+      "kcal": 924,
+      "protein": 75.6,
+      "carb": 106.4,
+      "fat": 18.9,
+      "items": [
+       {
+        "name": "荞麦面",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 490,
+        "protein": 18.2,
+        "carb": 95.2,
+        "fat": 4.9
+       },
+       {
+        "name": "卤牛肉",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 350,
+        "protein": 56,
+        "carb": 5.6,
+        "fat": 8.4
+       },
+       {
+        "name": "拌黄瓜",
+        "type": "菜",
+        "portion": "少",
+        "kcal": 84,
+        "protein": 1.4,
+        "carb": 5.6,
+        "fat": 5.6
+       }
+      ]
+     },
+     {
+      "meal": "下午加餐",
+      "time": "15:40",
+      "kcal": 322,
+      "protein": 13.3,
+      "carb": 43.4,
+      "fat": 10.1,
+      "items": [
+       {
+        "name": "酸奶",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 266,
+        "protein": 12.6,
+        "carb": 29.4,
+        "fat": 9.8
+       },
+       {
+        "name": "蓝莓",
+        "type": "菜",
+        "portion": "1把",
+        "kcal": 56,
+        "protein": 0.7,
+        "carb": 14,
+        "fat": 0.3
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "18:40",
+      "kcal": 966,
+      "protein": 50.4,
+      "carb": 96.6,
+      "fat": 33.7,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 336,
+        "protein": 6.3,
+        "carb": 74.2,
+        "fat": 0.8
+       },
+       {
+        "name": "红烧鸡腿",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 420,
+        "protein": 39.2,
+        "carb": 8.4,
+        "fat": 25.2
+       },
+       {
+        "name": "炒时蔬",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 4.2,
+        "carb": 9.8,
+        "fat": 7
+       },
+       {
+        "name": "冬瓜汤",
+        "type": "汤",
+        "portion": "1碗",
+        "kcal": 84,
+        "protein": 0.7,
+        "carb": 4.2,
+        "fat": 0.7
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3520,
+    "train": "轻松跑",
+    "watchKcal": 520
+   },
+   {
+    "date": "2026-07-23",
+    "totalKcal": 3220,
+    "totalProtein": 174.7,
+    "totalCarb": 382.9,
+    "totalFat": 97.7,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "08:05",
+      "kcal": 798,
+      "protein": 33.6,
+      "carb": 112.7,
+      "fat": 21,
+      "items": [
+       {
+        "name": "小米粥",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 182,
+        "protein": 4.2,
+        "carb": 39.2,
+        "fat": 0.7
+       },
+       {
+        "name": "肉包子",
+        "type": "主食",
+        "portion": "2个",
+        "kcal": 504,
+        "protein": 19.6,
+        "carb": 72.8,
+        "fat": 12.6
+       },
+       {
+        "name": "茶叶蛋",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 9.8,
+        "carb": 0.7,
+        "fat": 7.7
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:40",
+      "kcal": 1162,
+      "protein": 55.7,
+      "carb": 137.2,
+      "fat": 40.5,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1.5碗",
+        "kcal": 504,
+        "protein": 9.5,
+        "carb": 112,
+        "fat": 1.3
+       },
+       {
+        "name": "番茄炖牛腩",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 532,
+        "protein": 42,
+        "carb": 16.8,
+        "fat": 30.8
+       },
+       {
+        "name": "炒青菜",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 4.2,
+        "carb": 8.4,
+        "fat": 8.4
+       }
+      ]
+     },
+     {
+      "meal": "夜宵",
+      "time": "20:30",
+      "kcal": 294,
+      "protein": 35,
+      "carb": 36.4,
+      "fat": 2.5,
+      "items": [
+       {
+        "name": "蛋白粉",
+        "type": "饮料",
+        "portion": "1勺",
+        "kcal": 168,
+        "protein": 33.6,
+        "carb": 4.2,
+        "fat": 2.1
+       },
+       {
+        "name": "香蕉",
+        "type": "菜",
+        "portion": "1根",
+        "kcal": 126,
+        "protein": 1.4,
+        "carb": 32.2,
+        "fat": 0.4
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "18:40",
+      "kcal": 966,
+      "protein": 50.4,
+      "carb": 96.6,
+      "fat": 33.7,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 336,
+        "protein": 6.3,
+        "carb": 74.2,
+        "fat": 0.8
+       },
+       {
+        "name": "红烧鸡腿",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 420,
+        "protein": 39.2,
+        "carb": 8.4,
+        "fat": 25.2
+       },
+       {
+        "name": "炒时蔬",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 4.2,
+        "carb": 9.8,
+        "fat": 7
+       },
+       {
+        "name": "冬瓜汤",
+        "type": "汤",
+        "portion": "1碗",
+        "kcal": 84,
+        "protein": 0.7,
+        "carb": 4.2,
+        "fat": 0.7
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3385,
+    "train": "力量日",
+    "watchKcal": 385
+   },
+   {
+    "date": "2026-07-24",
+    "totalKcal": 2723,
+    "totalProtein": 209.9,
+    "totalCarb": 284.2,
+    "totalFat": 76.8,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "07:40",
+      "kcal": 609,
+      "protein": 29.4,
+      "carb": 79.8,
+      "fat": 18.6,
+      "items": [
+       {
+        "name": "全麦面包",
+        "type": "主食",
+        "portion": "2片",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 44.8,
+        "fat": 2.8
+       },
+       {
+        "name": "水煮蛋",
+        "type": "菜",
+        "portion": "2个",
+        "kcal": 224,
+        "protein": 18.2,
+        "carb": 1.4,
+        "fat": 15.4
+       },
+       {
+        "name": "香蕉",
+        "type": "菜",
+        "portion": "1根",
+        "kcal": 126,
+        "protein": 1.4,
+        "carb": 32.2,
+        "fat": 0.4
+       },
+       {
+        "name": "黑咖啡",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 7,
+        "protein": 0,
+        "carb": 1.4,
+        "fat": 0
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:30",
+      "kcal": 980,
+      "protein": 90.3,
+      "carb": 95.2,
+      "fat": 22.5,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 336,
+        "protein": 6.3,
+        "carb": 74.2,
+        "fat": 0.8
+       },
+       {
+        "name": "香煎鸡胸",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 392,
+        "protein": 72.8,
+        "carb": 1.4,
+        "fat": 8.4
+       },
+       {
+        "name": "炒西兰花",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 5.6,
+        "carb": 11.2,
+        "fat": 6.3
+       },
+       {
+        "name": "番茄蛋汤",
+        "type": "汤",
+        "portion": "1碗",
+        "kcal": 126,
+        "protein": 5.6,
+        "carb": 8.4,
+        "fat": 7
+       }
+      ]
+     },
+     {
+      "meal": "下午加餐",
+      "time": "15:20",
+      "kcal": 364,
+      "protein": 10.4,
+      "carb": 51.8,
+      "fat": 14.4,
+      "items": [
+       {
+        "name": "拿铁",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 22.4,
+        "fat": 14
+       },
+       {
+        "name": "苹果",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 0.6,
+        "carb": 29.4,
+        "fat": 0.4
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "19:00",
+      "kcal": 770,
+      "protein": 79.8,
+      "carb": 57.4,
+      "fat": 21.3,
+      "items": [
+       {
+        "name": "红薯",
+        "type": "主食",
+        "portion": "1个",
+        "kcal": 182,
+        "protein": 2.8,
+        "carb": 42,
+        "fat": 0.3
+       },
+       {
+        "name": "烤鸡胸",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 392,
+        "protein": 72.8,
+        "carb": 1.4,
+        "fat": 7.7
+       },
+       {
+        "name": "蔬菜沙拉",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 196,
+        "protein": 4.2,
+        "carb": 14,
+        "fat": 13.3
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3520,
+    "train": "轻松跑",
+    "watchKcal": 520
+   },
+   {
+    "date": "2026-07-25",
+    "totalKcal": 4158,
+    "totalProtein": 220.2,
+    "totalCarb": 340.9,
+    "totalFat": 185,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "07:35",
+      "kcal": 700,
+      "protein": 42,
+      "carb": 81.9,
+      "fat": 19.6,
+      "items": [
+       {
+        "name": "牛肉面",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 588,
+        "protein": 33.6,
+        "carb": 81.2,
+        "fat": 11.2
+       },
+       {
+        "name": "煎蛋",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 8.4,
+        "carb": 0.7,
+        "fat": 8.4
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:30",
+      "kcal": 1638,
+      "protein": 119,
+      "carb": 61.6,
+      "fat": 93.8,
+      "items": [
+       {
+        "name": "牛肉火锅",
+        "type": "菜",
+        "portion": "多",
+        "kcal": 1120,
+        "protein": 77,
+        "carb": 28,
+        "fat": 70
+       },
+       {
+        "name": "毛肚",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 210,
+        "protein": 30.8,
+        "carb": 2.8,
+        "fat": 8.4
+       },
+       {
+        "name": "蔬菜拼盘",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 168,
+        "protein": 5.6,
+        "carb": 22.4,
+        "fat": 5.6
+       },
+       {
+        "name": "麻酱蘸料",
+        "type": "菜",
+        "portion": "少",
+        "kcal": 140,
+        "protein": 5.6,
+        "carb": 8.4,
+        "fat": 9.8
+       }
+      ]
+     },
+     {
+      "meal": "下午加餐",
+      "time": "15:40",
+      "kcal": 322,
+      "protein": 13.3,
+      "carb": 43.4,
+      "fat": 10.1,
+      "items": [
+       {
+        "name": "酸奶",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 266,
+        "protein": 12.6,
+        "carb": 29.4,
+        "fat": 9.8
+       },
+       {
+        "name": "蓝莓",
+        "type": "菜",
+        "portion": "1把",
+        "kcal": 56,
+        "protein": 0.7,
+        "carb": 14,
+        "fat": 0.3
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "19:30",
+      "kcal": 1498,
+      "protein": 45.9,
+      "carb": 154,
+      "fat": 61.5,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1.5碗",
+        "kcal": 504,
+        "protein": 9.5,
+        "carb": 112,
+        "fat": 1.3
+       },
+       {
+        "name": "红烧肉",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 672,
+        "protein": 30.8,
+        "carb": 16.8,
+        "fat": 53.2
+       },
+       {
+        "name": "清炒时蔬",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 4.2,
+        "carb": 9.8,
+        "fat": 7
+       },
+       {
+        "name": "啤酒",
+        "type": "饮料",
+        "portion": "1罐",
+        "kcal": 196,
+        "protein": 1.4,
+        "carb": 15.4,
+        "fat": 0
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3250,
+    "train": "聚餐日"
+   },
+   {
+    "date": "2026-07-26",
+    "totalKcal": 3388,
+    "totalProtein": 214.5,
+    "totalCarb": 395.5,
+    "totalFat": 99.7,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "08:05",
+      "kcal": 798,
+      "protein": 33.6,
+      "carb": 112.7,
+      "fat": 21,
+      "items": [
+       {
+        "name": "小米粥",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 182,
+        "protein": 4.2,
+        "carb": 39.2,
+        "fat": 0.7
+       },
+       {
+        "name": "肉包子",
+        "type": "主食",
+        "portion": "2个",
+        "kcal": 504,
+        "protein": 19.6,
+        "carb": 72.8,
+        "fat": 12.6
+       },
+       {
+        "name": "茶叶蛋",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 9.8,
+        "carb": 0.7,
+        "fat": 7.7
+       }
+      ]
+     },
+     {
+      "meal": "夜宵",
+      "time": "20:30",
+      "kcal": 294,
+      "protein": 35,
+      "carb": 36.4,
+      "fat": 2.5,
+      "items": [
+       {
+        "name": "蛋白粉",
+        "type": "饮料",
+        "portion": "1勺",
+        "kcal": 168,
+        "protein": 33.6,
+        "carb": 4.2,
+        "fat": 2.1
+       },
+       {
+        "name": "香蕉",
+        "type": "菜",
+        "portion": "1根",
+        "kcal": 126,
+        "protein": 1.4,
+        "carb": 32.2,
+        "fat": 0.4
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:40",
+      "kcal": 1162,
+      "protein": 55.7,
+      "carb": 137.2,
+      "fat": 40.5,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1.5碗",
+        "kcal": 504,
+        "protein": 9.5,
+        "carb": 112,
+        "fat": 1.3
+       },
+       {
+        "name": "番茄炖牛腩",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 532,
+        "protein": 42,
+        "carb": 16.8,
+        "fat": 30.8
+       },
+       {
+        "name": "炒青菜",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 4.2,
+        "carb": 8.4,
+        "fat": 8.4
+       }
+      ]
+     },
+     {
+      "meal": "下午加餐",
+      "time": "15:20",
+      "kcal": 364,
+      "protein": 10.4,
+      "carb": 51.8,
+      "fat": 14.4,
+      "items": [
+       {
+        "name": "拿铁",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 22.4,
+        "fat": 14
+       },
+       {
+        "name": "苹果",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 0.6,
+        "carb": 29.4,
+        "fat": 0.4
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "19:00",
+      "kcal": 770,
+      "protein": 79.8,
+      "carb": 57.4,
+      "fat": 21.3,
+      "items": [
+       {
+        "name": "红薯",
+        "type": "主食",
+        "portion": "1个",
+        "kcal": 182,
+        "protein": 2.8,
+        "carb": 42,
+        "fat": 0.3
+       },
+       {
+        "name": "烤鸡胸",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 392,
+        "protein": 72.8,
+        "carb": 1.4,
+        "fat": 7.7
+       },
+       {
+        "name": "蔬菜沙拉",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 196,
+        "protein": 4.2,
+        "carb": 14,
+        "fat": 13.3
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3780,
+    "train": "长跑日",
+    "watchKcal": 780
+   },
+   {
+    "date": "2026-07-27",
+    "totalKcal": 2639,
+    "totalProtein": 188.9,
+    "totalCarb": 281.4,
+    "totalFat": 78.2,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "07:40",
+      "kcal": 609,
+      "protein": 29.4,
+      "carb": 79.8,
+      "fat": 18.6,
+      "items": [
+       {
+        "name": "全麦面包",
+        "type": "主食",
+        "portion": "2片",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 44.8,
+        "fat": 2.8
+       },
+       {
+        "name": "水煮蛋",
+        "type": "菜",
+        "portion": "2个",
+        "kcal": 224,
+        "protein": 18.2,
+        "carb": 1.4,
+        "fat": 15.4
+       },
+       {
+        "name": "香蕉",
+        "type": "菜",
+        "portion": "1根",
+        "kcal": 126,
+        "protein": 1.4,
+        "carb": 32.2,
+        "fat": 0.4
+       },
+       {
+        "name": "黑咖啡",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 7,
+        "protein": 0,
+        "carb": 1.4,
+        "fat": 0
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:20",
+      "kcal": 896,
+      "protein": 69.3,
+      "carb": 92.4,
+      "fat": 23.9,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 336,
+        "protein": 6.3,
+        "carb": 74.2,
+        "fat": 0.8
+       },
+       {
+        "name": "清蒸鲈鱼",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 364,
+        "protein": 56,
+        "carb": 1.4,
+        "fat": 14
+       },
+       {
+        "name": "蒜蓉菠菜",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 112,
+        "protein": 4.2,
+        "carb": 8.4,
+        "fat": 6.3
+       },
+       {
+        "name": "紫菜汤",
+        "type": "汤",
+        "portion": "1碗",
+        "kcal": 84,
+        "protein": 2.8,
+        "carb": 8.4,
+        "fat": 2.8
+       }
+      ]
+     },
+     {
+      "meal": "下午加餐",
+      "time": "15:20",
+      "kcal": 364,
+      "protein": 10.4,
+      "carb": 51.8,
+      "fat": 14.4,
+      "items": [
+       {
+        "name": "拿铁",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 22.4,
+        "fat": 14
+       },
+       {
+        "name": "苹果",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 0.6,
+        "carb": 29.4,
+        "fat": 0.4
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "19:00",
+      "kcal": 770,
+      "protein": 79.8,
+      "carb": 57.4,
+      "fat": 21.3,
+      "items": [
+       {
+        "name": "红薯",
+        "type": "主食",
+        "portion": "1个",
+        "kcal": 182,
+        "protein": 2.8,
+        "carb": 42,
+        "fat": 0.3
+       },
+       {
+        "name": "烤鸡胸",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 392,
+        "protein": 72.8,
+        "carb": 1.4,
+        "fat": 7.7
+       },
+       {
+        "name": "蔬菜沙拉",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 196,
+        "protein": 4.2,
+        "carb": 14,
+        "fat": 13.3
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3000,
+    "train": "休息日"
+   },
+   {
+    "date": "2026-07-28",
+    "totalKcal": 3024,
+    "totalProtein": 189.6,
+    "totalCarb": 332.5,
+    "totalFat": 95.8,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "07:35",
+      "kcal": 700,
+      "protein": 42,
+      "carb": 81.9,
+      "fat": 19.6,
+      "items": [
+       {
+        "name": "牛肉面",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 588,
+        "protein": 33.6,
+        "carb": 81.2,
+        "fat": 11.2
+       },
+       {
+        "name": "煎蛋",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 8.4,
+        "carb": 0.7,
+        "fat": 8.4
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:30",
+      "kcal": 980,
+      "protein": 90.3,
+      "carb": 95.2,
+      "fat": 22.5,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 336,
+        "protein": 6.3,
+        "carb": 74.2,
+        "fat": 0.8
+       },
+       {
+        "name": "香煎鸡胸",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 392,
+        "protein": 72.8,
+        "carb": 1.4,
+        "fat": 8.4
+       },
+       {
+        "name": "炒西兰花",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 5.6,
+        "carb": 11.2,
+        "fat": 6.3
+       },
+       {
+        "name": "番茄蛋汤",
+        "type": "汤",
+        "portion": "1碗",
+        "kcal": 126,
+        "protein": 5.6,
+        "carb": 8.4,
+        "fat": 7
+       }
+      ]
+     },
+     {
+      "meal": "下午加餐",
+      "time": "15:20",
+      "kcal": 364,
+      "protein": 10.4,
+      "carb": 51.8,
+      "fat": 14.4,
+      "items": [
+       {
+        "name": "拿铁",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 22.4,
+        "fat": 14
+       },
+       {
+        "name": "苹果",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 0.6,
+        "carb": 29.4,
+        "fat": 0.4
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "18:30",
+      "kcal": 980,
+      "protein": 46.9,
+      "carb": 103.6,
+      "fat": 39.3,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 336,
+        "protein": 6.3,
+        "carb": 74.2,
+        "fat": 0.8
+       },
+       {
+        "name": "青椒肉丝",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 448,
+        "protein": 28,
+        "carb": 16.8,
+        "fat": 29.4
+       },
+       {
+        "name": "凉拌豆腐",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 11.2,
+        "carb": 4.2,
+        "fat": 7
+       },
+       {
+        "name": "海带汤",
+        "type": "汤",
+        "portion": "1碗",
+        "kcal": 70,
+        "protein": 1.4,
+        "carb": 8.4,
+        "fat": 2.1
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3385,
+    "train": "力量日",
+    "watchKcal": 385
+   },
+   {
+    "date": "2026-07-29",
+    "totalKcal": 2800,
+    "totalProtein": 165.2,
+    "totalCarb": 312.9,
+    "totalFat": 87.2,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "07:50",
+      "kcal": 588,
+      "protein": 25.9,
+      "carb": 66.5,
+      "fat": 24.5,
+      "items": [
+       {
+        "name": "全麦吐司",
+        "type": "主食",
+        "portion": "2片",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 44.8,
+        "fat": 2.8
+       },
+       {
+        "name": "花生酱",
+        "type": "菜",
+        "portion": "1勺",
+        "kcal": 126,
+        "protein": 4.9,
+        "carb": 4.9,
+        "fat": 10.5
+       },
+       {
+        "name": "牛奶",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 210,
+        "protein": 11.2,
+        "carb": 16.8,
+        "fat": 11.2
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:35",
+      "kcal": 924,
+      "protein": 75.6,
+      "carb": 106.4,
+      "fat": 18.9,
+      "items": [
+       {
+        "name": "荞麦面",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 490,
+        "protein": 18.2,
+        "carb": 95.2,
+        "fat": 4.9
+       },
+       {
+        "name": "卤牛肉",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 350,
+        "protein": 56,
+        "carb": 5.6,
+        "fat": 8.4
+       },
+       {
+        "name": "拌黄瓜",
+        "type": "菜",
+        "portion": "少",
+        "kcal": 84,
+        "protein": 1.4,
+        "carb": 5.6,
+        "fat": 5.6
+       }
+      ]
+     },
+     {
+      "meal": "下午加餐",
+      "time": "15:40",
+      "kcal": 322,
+      "protein": 13.3,
+      "carb": 43.4,
+      "fat": 10.1,
+      "items": [
+       {
+        "name": "酸奶",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 266,
+        "protein": 12.6,
+        "carb": 29.4,
+        "fat": 9.8
+       },
+       {
+        "name": "蓝莓",
+        "type": "菜",
+        "portion": "1把",
+        "kcal": 56,
+        "protein": 0.7,
+        "carb": 14,
+        "fat": 0.3
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "18:40",
+      "kcal": 966,
+      "protein": 50.4,
+      "carb": 96.6,
+      "fat": 33.7,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 336,
+        "protein": 6.3,
+        "carb": 74.2,
+        "fat": 0.8
+       },
+       {
+        "name": "红烧鸡腿",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 420,
+        "protein": 39.2,
+        "carb": 8.4,
+        "fat": 25.2
+       },
+       {
+        "name": "炒时蔬",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 4.2,
+        "carb": 9.8,
+        "fat": 7
+       },
+       {
+        "name": "冬瓜汤",
+        "type": "汤",
+        "portion": "1碗",
+        "kcal": 84,
+        "protein": 0.7,
+        "carb": 4.2,
+        "fat": 0.7
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3520,
+    "train": "轻松跑",
+    "watchKcal": 520
+   },
+   {
+    "date": "2026-07-30",
+    "totalKcal": 3220,
+    "totalProtein": 174.7,
+    "totalCarb": 382.9,
+    "totalFat": 97.7,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "08:05",
+      "kcal": 798,
+      "protein": 33.6,
+      "carb": 112.7,
+      "fat": 21,
+      "items": [
+       {
+        "name": "小米粥",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 182,
+        "protein": 4.2,
+        "carb": 39.2,
+        "fat": 0.7
+       },
+       {
+        "name": "肉包子",
+        "type": "主食",
+        "portion": "2个",
+        "kcal": 504,
+        "protein": 19.6,
+        "carb": 72.8,
+        "fat": 12.6
+       },
+       {
+        "name": "茶叶蛋",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 9.8,
+        "carb": 0.7,
+        "fat": 7.7
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:40",
+      "kcal": 1162,
+      "protein": 55.7,
+      "carb": 137.2,
+      "fat": 40.5,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1.5碗",
+        "kcal": 504,
+        "protein": 9.5,
+        "carb": 112,
+        "fat": 1.3
+       },
+       {
+        "name": "番茄炖牛腩",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 532,
+        "protein": 42,
+        "carb": 16.8,
+        "fat": 30.8
+       },
+       {
+        "name": "炒青菜",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 4.2,
+        "carb": 8.4,
+        "fat": 8.4
+       }
+      ]
+     },
+     {
+      "meal": "夜宵",
+      "time": "20:30",
+      "kcal": 294,
+      "protein": 35,
+      "carb": 36.4,
+      "fat": 2.5,
+      "items": [
+       {
+        "name": "蛋白粉",
+        "type": "饮料",
+        "portion": "1勺",
+        "kcal": 168,
+        "protein": 33.6,
+        "carb": 4.2,
+        "fat": 2.1
+       },
+       {
+        "name": "香蕉",
+        "type": "菜",
+        "portion": "1根",
+        "kcal": 126,
+        "protein": 1.4,
+        "carb": 32.2,
+        "fat": 0.4
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "18:40",
+      "kcal": 966,
+      "protein": 50.4,
+      "carb": 96.6,
+      "fat": 33.7,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 336,
+        "protein": 6.3,
+        "carb": 74.2,
+        "fat": 0.8
+       },
+       {
+        "name": "红烧鸡腿",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 420,
+        "protein": 39.2,
+        "carb": 8.4,
+        "fat": 25.2
+       },
+       {
+        "name": "炒时蔬",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 4.2,
+        "carb": 9.8,
+        "fat": 7
+       },
+       {
+        "name": "冬瓜汤",
+        "type": "汤",
+        "portion": "1碗",
+        "kcal": 84,
+        "protein": 0.7,
+        "carb": 4.2,
+        "fat": 0.7
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3385,
+    "train": "力量日",
+    "watchKcal": 385
+   },
+   {
+    "date": "2026-07-31",
+    "totalKcal": 2723,
+    "totalProtein": 209.9,
+    "totalCarb": 284.2,
+    "totalFat": 76.8,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "07:40",
+      "kcal": 609,
+      "protein": 29.4,
+      "carb": 79.8,
+      "fat": 18.6,
+      "items": [
+       {
+        "name": "全麦面包",
+        "type": "主食",
+        "portion": "2片",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 44.8,
+        "fat": 2.8
+       },
+       {
+        "name": "水煮蛋",
+        "type": "菜",
+        "portion": "2个",
+        "kcal": 224,
+        "protein": 18.2,
+        "carb": 1.4,
+        "fat": 15.4
+       },
+       {
+        "name": "香蕉",
+        "type": "菜",
+        "portion": "1根",
+        "kcal": 126,
+        "protein": 1.4,
+        "carb": 32.2,
+        "fat": 0.4
+       },
+       {
+        "name": "黑咖啡",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 7,
+        "protein": 0,
+        "carb": 1.4,
+        "fat": 0
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:30",
+      "kcal": 980,
+      "protein": 90.3,
+      "carb": 95.2,
+      "fat": 22.5,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 336,
+        "protein": 6.3,
+        "carb": 74.2,
+        "fat": 0.8
+       },
+       {
+        "name": "香煎鸡胸",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 392,
+        "protein": 72.8,
+        "carb": 1.4,
+        "fat": 8.4
+       },
+       {
+        "name": "炒西兰花",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 5.6,
+        "carb": 11.2,
+        "fat": 6.3
+       },
+       {
+        "name": "番茄蛋汤",
+        "type": "汤",
+        "portion": "1碗",
+        "kcal": 126,
+        "protein": 5.6,
+        "carb": 8.4,
+        "fat": 7
+       }
+      ]
+     },
+     {
+      "meal": "下午加餐",
+      "time": "15:20",
+      "kcal": 364,
+      "protein": 10.4,
+      "carb": 51.8,
+      "fat": 14.4,
+      "items": [
+       {
+        "name": "拿铁",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 22.4,
+        "fat": 14
+       },
+       {
+        "name": "苹果",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 0.6,
+        "carb": 29.4,
+        "fat": 0.4
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "19:00",
+      "kcal": 770,
+      "protein": 79.8,
+      "carb": 57.4,
+      "fat": 21.3,
+      "items": [
+       {
+        "name": "红薯",
+        "type": "主食",
+        "portion": "1个",
+        "kcal": 182,
+        "protein": 2.8,
+        "carb": 42,
+        "fat": 0.3
+       },
+       {
+        "name": "烤鸡胸",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 392,
+        "protein": 72.8,
+        "carb": 1.4,
+        "fat": 7.7
+       },
+       {
+        "name": "蔬菜沙拉",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 196,
+        "protein": 4.2,
+        "carb": 14,
+        "fat": 13.3
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3520,
+    "train": "轻松跑",
+    "watchKcal": 520
+   },
+   {
+    "date": "2026-08-01",
+    "totalKcal": 4158,
+    "totalProtein": 220.2,
+    "totalCarb": 340.9,
+    "totalFat": 185,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "07:35",
+      "kcal": 700,
+      "protein": 42,
+      "carb": 81.9,
+      "fat": 19.6,
+      "items": [
+       {
+        "name": "牛肉面",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 588,
+        "protein": 33.6,
+        "carb": 81.2,
+        "fat": 11.2
+       },
+       {
+        "name": "煎蛋",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 8.4,
+        "carb": 0.7,
+        "fat": 8.4
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:30",
+      "kcal": 1638,
+      "protein": 119,
+      "carb": 61.6,
+      "fat": 93.8,
+      "items": [
+       {
+        "name": "牛肉火锅",
+        "type": "菜",
+        "portion": "多",
+        "kcal": 1120,
+        "protein": 77,
+        "carb": 28,
+        "fat": 70
+       },
+       {
+        "name": "毛肚",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 210,
+        "protein": 30.8,
+        "carb": 2.8,
+        "fat": 8.4
+       },
+       {
+        "name": "蔬菜拼盘",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 168,
+        "protein": 5.6,
+        "carb": 22.4,
+        "fat": 5.6
+       },
+       {
+        "name": "麻酱蘸料",
+        "type": "菜",
+        "portion": "少",
+        "kcal": 140,
+        "protein": 5.6,
+        "carb": 8.4,
+        "fat": 9.8
+       }
+      ]
+     },
+     {
+      "meal": "下午加餐",
+      "time": "15:40",
+      "kcal": 322,
+      "protein": 13.3,
+      "carb": 43.4,
+      "fat": 10.1,
+      "items": [
+       {
+        "name": "酸奶",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 266,
+        "protein": 12.6,
+        "carb": 29.4,
+        "fat": 9.8
+       },
+       {
+        "name": "蓝莓",
+        "type": "菜",
+        "portion": "1把",
+        "kcal": 56,
+        "protein": 0.7,
+        "carb": 14,
+        "fat": 0.3
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "19:30",
+      "kcal": 1498,
+      "protein": 45.9,
+      "carb": 154,
+      "fat": 61.5,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1.5碗",
+        "kcal": 504,
+        "protein": 9.5,
+        "carb": 112,
+        "fat": 1.3
+       },
+       {
+        "name": "红烧肉",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 672,
+        "protein": 30.8,
+        "carb": 16.8,
+        "fat": 53.2
+       },
+       {
+        "name": "清炒时蔬",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 4.2,
+        "carb": 9.8,
+        "fat": 7
+       },
+       {
+        "name": "啤酒",
+        "type": "饮料",
+        "portion": "1罐",
+        "kcal": 196,
+        "protein": 1.4,
+        "carb": 15.4,
+        "fat": 0
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3250,
+    "train": "聚餐日"
+   },
+   {
+    "date": "2026-08-02",
+    "totalKcal": 3388,
+    "totalProtein": 214.5,
+    "totalCarb": 395.5,
+    "totalFat": 99.7,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "08:05",
+      "kcal": 798,
+      "protein": 33.6,
+      "carb": 112.7,
+      "fat": 21,
+      "items": [
+       {
+        "name": "小米粥",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 182,
+        "protein": 4.2,
+        "carb": 39.2,
+        "fat": 0.7
+       },
+       {
+        "name": "肉包子",
+        "type": "主食",
+        "portion": "2个",
+        "kcal": 504,
+        "protein": 19.6,
+        "carb": 72.8,
+        "fat": 12.6
+       },
+       {
+        "name": "茶叶蛋",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 9.8,
+        "carb": 0.7,
+        "fat": 7.7
+       }
+      ]
+     },
+     {
+      "meal": "夜宵",
+      "time": "20:30",
+      "kcal": 294,
+      "protein": 35,
+      "carb": 36.4,
+      "fat": 2.5,
+      "items": [
+       {
+        "name": "蛋白粉",
+        "type": "饮料",
+        "portion": "1勺",
+        "kcal": 168,
+        "protein": 33.6,
+        "carb": 4.2,
+        "fat": 2.1
+       },
+       {
+        "name": "香蕉",
+        "type": "菜",
+        "portion": "1根",
+        "kcal": 126,
+        "protein": 1.4,
+        "carb": 32.2,
+        "fat": 0.4
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:40",
+      "kcal": 1162,
+      "protein": 55.7,
+      "carb": 137.2,
+      "fat": 40.5,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1.5碗",
+        "kcal": 504,
+        "protein": 9.5,
+        "carb": 112,
+        "fat": 1.3
+       },
+       {
+        "name": "番茄炖牛腩",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 532,
+        "protein": 42,
+        "carb": 16.8,
+        "fat": 30.8
+       },
+       {
+        "name": "炒青菜",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 4.2,
+        "carb": 8.4,
+        "fat": 8.4
+       }
+      ]
+     },
+     {
+      "meal": "下午加餐",
+      "time": "15:20",
+      "kcal": 364,
+      "protein": 10.4,
+      "carb": 51.8,
+      "fat": 14.4,
+      "items": [
+       {
+        "name": "拿铁",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 22.4,
+        "fat": 14
+       },
+       {
+        "name": "苹果",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 0.6,
+        "carb": 29.4,
+        "fat": 0.4
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "19:00",
+      "kcal": 770,
+      "protein": 79.8,
+      "carb": 57.4,
+      "fat": 21.3,
+      "items": [
+       {
+        "name": "红薯",
+        "type": "主食",
+        "portion": "1个",
+        "kcal": 182,
+        "protein": 2.8,
+        "carb": 42,
+        "fat": 0.3
+       },
+       {
+        "name": "烤鸡胸",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 392,
+        "protein": 72.8,
+        "carb": 1.4,
+        "fat": 7.7
+       },
+       {
+        "name": "蔬菜沙拉",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 196,
+        "protein": 4.2,
+        "carb": 14,
+        "fat": 13.3
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3780,
+    "train": "长跑日",
+    "watchKcal": 780
+   },
+   {
+    "date": "2026-08-03",
+    "totalKcal": 2639,
+    "totalProtein": 188.9,
+    "totalCarb": 281.4,
+    "totalFat": 78.2,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "07:40",
+      "kcal": 609,
+      "protein": 29.4,
+      "carb": 79.8,
+      "fat": 18.6,
+      "items": [
+       {
+        "name": "全麦面包",
+        "type": "主食",
+        "portion": "2片",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 44.8,
+        "fat": 2.8
+       },
+       {
+        "name": "水煮蛋",
+        "type": "菜",
+        "portion": "2个",
+        "kcal": 224,
+        "protein": 18.2,
+        "carb": 1.4,
+        "fat": 15.4
+       },
+       {
+        "name": "香蕉",
+        "type": "菜",
+        "portion": "1根",
+        "kcal": 126,
+        "protein": 1.4,
+        "carb": 32.2,
+        "fat": 0.4
+       },
+       {
+        "name": "黑咖啡",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 7,
+        "protein": 0,
+        "carb": 1.4,
+        "fat": 0
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:20",
+      "kcal": 896,
+      "protein": 69.3,
+      "carb": 92.4,
+      "fat": 23.9,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 336,
+        "protein": 6.3,
+        "carb": 74.2,
+        "fat": 0.8
+       },
+       {
+        "name": "清蒸鲈鱼",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 364,
+        "protein": 56,
+        "carb": 1.4,
+        "fat": 14
+       },
+       {
+        "name": "蒜蓉菠菜",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 112,
+        "protein": 4.2,
+        "carb": 8.4,
+        "fat": 6.3
+       },
+       {
+        "name": "紫菜汤",
+        "type": "汤",
+        "portion": "1碗",
+        "kcal": 84,
+        "protein": 2.8,
+        "carb": 8.4,
+        "fat": 2.8
+       }
+      ]
+     },
+     {
+      "meal": "下午加餐",
+      "time": "15:20",
+      "kcal": 364,
+      "protein": 10.4,
+      "carb": 51.8,
+      "fat": 14.4,
+      "items": [
+       {
+        "name": "拿铁",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 22.4,
+        "fat": 14
+       },
+       {
+        "name": "苹果",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 0.6,
+        "carb": 29.4,
+        "fat": 0.4
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "19:00",
+      "kcal": 770,
+      "protein": 79.8,
+      "carb": 57.4,
+      "fat": 21.3,
+      "items": [
+       {
+        "name": "红薯",
+        "type": "主食",
+        "portion": "1个",
+        "kcal": 182,
+        "protein": 2.8,
+        "carb": 42,
+        "fat": 0.3
+       },
+       {
+        "name": "烤鸡胸",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 392,
+        "protein": 72.8,
+        "carb": 1.4,
+        "fat": 7.7
+       },
+       {
+        "name": "蔬菜沙拉",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 196,
+        "protein": 4.2,
+        "carb": 14,
+        "fat": 13.3
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3000,
+    "train": "休息日"
+   },
+   {
+    "date": "2026-08-04",
+    "totalKcal": 3024,
+    "totalProtein": 189.6,
+    "totalCarb": 332.5,
+    "totalFat": 95.8,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "07:35",
+      "kcal": 700,
+      "protein": 42,
+      "carb": 81.9,
+      "fat": 19.6,
+      "items": [
+       {
+        "name": "牛肉面",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 588,
+        "protein": 33.6,
+        "carb": 81.2,
+        "fat": 11.2
+       },
+       {
+        "name": "煎蛋",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 8.4,
+        "carb": 0.7,
+        "fat": 8.4
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:30",
+      "kcal": 980,
+      "protein": 90.3,
+      "carb": 95.2,
+      "fat": 22.5,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 336,
+        "protein": 6.3,
+        "carb": 74.2,
+        "fat": 0.8
+       },
+       {
+        "name": "香煎鸡胸",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 392,
+        "protein": 72.8,
+        "carb": 1.4,
+        "fat": 8.4
+       },
+       {
+        "name": "炒西兰花",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 5.6,
+        "carb": 11.2,
+        "fat": 6.3
+       },
+       {
+        "name": "番茄蛋汤",
+        "type": "汤",
+        "portion": "1碗",
+        "kcal": 126,
+        "protein": 5.6,
+        "carb": 8.4,
+        "fat": 7
+       }
+      ]
+     },
+     {
+      "meal": "下午加餐",
+      "time": "15:20",
+      "kcal": 364,
+      "protein": 10.4,
+      "carb": 51.8,
+      "fat": 14.4,
+      "items": [
+       {
+        "name": "拿铁",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 22.4,
+        "fat": 14
+       },
+       {
+        "name": "苹果",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 0.6,
+        "carb": 29.4,
+        "fat": 0.4
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "18:30",
+      "kcal": 980,
+      "protein": 46.9,
+      "carb": 103.6,
+      "fat": 39.3,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 336,
+        "protein": 6.3,
+        "carb": 74.2,
+        "fat": 0.8
+       },
+       {
+        "name": "青椒肉丝",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 448,
+        "protein": 28,
+        "carb": 16.8,
+        "fat": 29.4
+       },
+       {
+        "name": "凉拌豆腐",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 11.2,
+        "carb": 4.2,
+        "fat": 7
+       },
+       {
+        "name": "海带汤",
+        "type": "汤",
+        "portion": "1碗",
+        "kcal": 70,
+        "protein": 1.4,
+        "carb": 8.4,
+        "fat": 2.1
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3385,
+    "train": "力量日",
+    "watchKcal": 385
+   },
+   {
+    "date": "2026-08-05",
+    "totalKcal": 2800,
+    "totalProtein": 165.2,
+    "totalCarb": 312.9,
+    "totalFat": 87.2,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "07:50",
+      "kcal": 588,
+      "protein": 25.9,
+      "carb": 66.5,
+      "fat": 24.5,
+      "items": [
+       {
+        "name": "全麦吐司",
+        "type": "主食",
+        "portion": "2片",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 44.8,
+        "fat": 2.8
+       },
+       {
+        "name": "花生酱",
+        "type": "菜",
+        "portion": "1勺",
+        "kcal": 126,
+        "protein": 4.9,
+        "carb": 4.9,
+        "fat": 10.5
+       },
+       {
+        "name": "牛奶",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 210,
+        "protein": 11.2,
+        "carb": 16.8,
+        "fat": 11.2
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:35",
+      "kcal": 924,
+      "protein": 75.6,
+      "carb": 106.4,
+      "fat": 18.9,
+      "items": [
+       {
+        "name": "荞麦面",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 490,
+        "protein": 18.2,
+        "carb": 95.2,
+        "fat": 4.9
+       },
+       {
+        "name": "卤牛肉",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 350,
+        "protein": 56,
+        "carb": 5.6,
+        "fat": 8.4
+       },
+       {
+        "name": "拌黄瓜",
+        "type": "菜",
+        "portion": "少",
+        "kcal": 84,
+        "protein": 1.4,
+        "carb": 5.6,
+        "fat": 5.6
+       }
+      ]
+     },
+     {
+      "meal": "下午加餐",
+      "time": "15:40",
+      "kcal": 322,
+      "protein": 13.3,
+      "carb": 43.4,
+      "fat": 10.1,
+      "items": [
+       {
+        "name": "酸奶",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 266,
+        "protein": 12.6,
+        "carb": 29.4,
+        "fat": 9.8
+       },
+       {
+        "name": "蓝莓",
+        "type": "菜",
+        "portion": "1把",
+        "kcal": 56,
+        "protein": 0.7,
+        "carb": 14,
+        "fat": 0.3
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "18:40",
+      "kcal": 966,
+      "protein": 50.4,
+      "carb": 96.6,
+      "fat": 33.7,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 336,
+        "protein": 6.3,
+        "carb": 74.2,
+        "fat": 0.8
+       },
+       {
+        "name": "红烧鸡腿",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 420,
+        "protein": 39.2,
+        "carb": 8.4,
+        "fat": 25.2
+       },
+       {
+        "name": "炒时蔬",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 4.2,
+        "carb": 9.8,
+        "fat": 7
+       },
+       {
+        "name": "冬瓜汤",
+        "type": "汤",
+        "portion": "1碗",
+        "kcal": 84,
+        "protein": 0.7,
+        "carb": 4.2,
+        "fat": 0.7
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3520,
+    "train": "轻松跑",
+    "watchKcal": 520
+   },
+   {
+    "date": "2026-08-06",
+    "totalKcal": 3220,
+    "totalProtein": 174.7,
+    "totalCarb": 382.9,
+    "totalFat": 97.7,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "08:05",
+      "kcal": 798,
+      "protein": 33.6,
+      "carb": 112.7,
+      "fat": 21,
+      "items": [
+       {
+        "name": "小米粥",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 182,
+        "protein": 4.2,
+        "carb": 39.2,
+        "fat": 0.7
+       },
+       {
+        "name": "肉包子",
+        "type": "主食",
+        "portion": "2个",
+        "kcal": 504,
+        "protein": 19.6,
+        "carb": 72.8,
+        "fat": 12.6
+       },
+       {
+        "name": "茶叶蛋",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 9.8,
+        "carb": 0.7,
+        "fat": 7.7
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:40",
+      "kcal": 1162,
+      "protein": 55.7,
+      "carb": 137.2,
+      "fat": 40.5,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1.5碗",
+        "kcal": 504,
+        "protein": 9.5,
+        "carb": 112,
+        "fat": 1.3
+       },
+       {
+        "name": "番茄炖牛腩",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 532,
+        "protein": 42,
+        "carb": 16.8,
+        "fat": 30.8
+       },
+       {
+        "name": "炒青菜",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 4.2,
+        "carb": 8.4,
+        "fat": 8.4
+       }
+      ]
+     },
+     {
+      "meal": "夜宵",
+      "time": "20:30",
+      "kcal": 294,
+      "protein": 35,
+      "carb": 36.4,
+      "fat": 2.5,
+      "items": [
+       {
+        "name": "蛋白粉",
+        "type": "饮料",
+        "portion": "1勺",
+        "kcal": 168,
+        "protein": 33.6,
+        "carb": 4.2,
+        "fat": 2.1
+       },
+       {
+        "name": "香蕉",
+        "type": "菜",
+        "portion": "1根",
+        "kcal": 126,
+        "protein": 1.4,
+        "carb": 32.2,
+        "fat": 0.4
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "18:40",
+      "kcal": 966,
+      "protein": 50.4,
+      "carb": 96.6,
+      "fat": 33.7,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 336,
+        "protein": 6.3,
+        "carb": 74.2,
+        "fat": 0.8
+       },
+       {
+        "name": "红烧鸡腿",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 420,
+        "protein": 39.2,
+        "carb": 8.4,
+        "fat": 25.2
+       },
+       {
+        "name": "炒时蔬",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 4.2,
+        "carb": 9.8,
+        "fat": 7
+       },
+       {
+        "name": "冬瓜汤",
+        "type": "汤",
+        "portion": "1碗",
+        "kcal": 84,
+        "protein": 0.7,
+        "carb": 4.2,
+        "fat": 0.7
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3385,
+    "train": "力量日",
+    "watchKcal": 385
+   },
+   {
+    "date": "2026-08-07",
+    "totalKcal": 2723,
+    "totalProtein": 209.9,
+    "totalCarb": 284.2,
+    "totalFat": 76.8,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "07:40",
+      "kcal": 609,
+      "protein": 29.4,
+      "carb": 79.8,
+      "fat": 18.6,
+      "items": [
+       {
+        "name": "全麦面包",
+        "type": "主食",
+        "portion": "2片",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 44.8,
+        "fat": 2.8
+       },
+       {
+        "name": "水煮蛋",
+        "type": "菜",
+        "portion": "2个",
+        "kcal": 224,
+        "protein": 18.2,
+        "carb": 1.4,
+        "fat": 15.4
+       },
+       {
+        "name": "香蕉",
+        "type": "菜",
+        "portion": "1根",
+        "kcal": 126,
+        "protein": 1.4,
+        "carb": 32.2,
+        "fat": 0.4
+       },
+       {
+        "name": "黑咖啡",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 7,
+        "protein": 0,
+        "carb": 1.4,
+        "fat": 0
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:30",
+      "kcal": 980,
+      "protein": 90.3,
+      "carb": 95.2,
+      "fat": 22.5,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 336,
+        "protein": 6.3,
+        "carb": 74.2,
+        "fat": 0.8
+       },
+       {
+        "name": "香煎鸡胸",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 392,
+        "protein": 72.8,
+        "carb": 1.4,
+        "fat": 8.4
+       },
+       {
+        "name": "炒西兰花",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 5.6,
+        "carb": 11.2,
+        "fat": 6.3
+       },
+       {
+        "name": "番茄蛋汤",
+        "type": "汤",
+        "portion": "1碗",
+        "kcal": 126,
+        "protein": 5.6,
+        "carb": 8.4,
+        "fat": 7
+       }
+      ]
+     },
+     {
+      "meal": "下午加餐",
+      "time": "15:20",
+      "kcal": 364,
+      "protein": 10.4,
+      "carb": 51.8,
+      "fat": 14.4,
+      "items": [
+       {
+        "name": "拿铁",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 22.4,
+        "fat": 14
+       },
+       {
+        "name": "苹果",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 0.6,
+        "carb": 29.4,
+        "fat": 0.4
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "19:00",
+      "kcal": 770,
+      "protein": 79.8,
+      "carb": 57.4,
+      "fat": 21.3,
+      "items": [
+       {
+        "name": "红薯",
+        "type": "主食",
+        "portion": "1个",
+        "kcal": 182,
+        "protein": 2.8,
+        "carb": 42,
+        "fat": 0.3
+       },
+       {
+        "name": "烤鸡胸",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 392,
+        "protein": 72.8,
+        "carb": 1.4,
+        "fat": 7.7
+       },
+       {
+        "name": "蔬菜沙拉",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 196,
+        "protein": 4.2,
+        "carb": 14,
+        "fat": 13.3
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3520,
+    "train": "轻松跑",
+    "watchKcal": 520
+   },
+   {
+    "date": "2026-08-08",
+    "totalKcal": 4158,
+    "totalProtein": 220.2,
+    "totalCarb": 340.9,
+    "totalFat": 185,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "07:35",
+      "kcal": 700,
+      "protein": 42,
+      "carb": 81.9,
+      "fat": 19.6,
+      "items": [
+       {
+        "name": "牛肉面",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 588,
+        "protein": 33.6,
+        "carb": 81.2,
+        "fat": 11.2
+       },
+       {
+        "name": "煎蛋",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 8.4,
+        "carb": 0.7,
+        "fat": 8.4
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:30",
+      "kcal": 1638,
+      "protein": 119,
+      "carb": 61.6,
+      "fat": 93.8,
+      "items": [
+       {
+        "name": "牛肉火锅",
+        "type": "菜",
+        "portion": "多",
+        "kcal": 1120,
+        "protein": 77,
+        "carb": 28,
+        "fat": 70
+       },
+       {
+        "name": "毛肚",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 210,
+        "protein": 30.8,
+        "carb": 2.8,
+        "fat": 8.4
+       },
+       {
+        "name": "蔬菜拼盘",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 168,
+        "protein": 5.6,
+        "carb": 22.4,
+        "fat": 5.6
+       },
+       {
+        "name": "麻酱蘸料",
+        "type": "菜",
+        "portion": "少",
+        "kcal": 140,
+        "protein": 5.6,
+        "carb": 8.4,
+        "fat": 9.8
+       }
+      ]
+     },
+     {
+      "meal": "下午加餐",
+      "time": "15:40",
+      "kcal": 322,
+      "protein": 13.3,
+      "carb": 43.4,
+      "fat": 10.1,
+      "items": [
+       {
+        "name": "酸奶",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 266,
+        "protein": 12.6,
+        "carb": 29.4,
+        "fat": 9.8
+       },
+       {
+        "name": "蓝莓",
+        "type": "菜",
+        "portion": "1把",
+        "kcal": 56,
+        "protein": 0.7,
+        "carb": 14,
+        "fat": 0.3
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "19:30",
+      "kcal": 1498,
+      "protein": 45.9,
+      "carb": 154,
+      "fat": 61.5,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1.5碗",
+        "kcal": 504,
+        "protein": 9.5,
+        "carb": 112,
+        "fat": 1.3
+       },
+       {
+        "name": "红烧肉",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 672,
+        "protein": 30.8,
+        "carb": 16.8,
+        "fat": 53.2
+       },
+       {
+        "name": "清炒时蔬",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 4.2,
+        "carb": 9.8,
+        "fat": 7
+       },
+       {
+        "name": "啤酒",
+        "type": "饮料",
+        "portion": "1罐",
+        "kcal": 196,
+        "protein": 1.4,
+        "carb": 15.4,
+        "fat": 0
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3250,
+    "train": "聚餐日"
+   },
+   {
+    "date": "2026-08-09",
+    "totalKcal": 3388,
+    "totalProtein": 214.5,
+    "totalCarb": 395.5,
+    "totalFat": 99.7,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "08:05",
+      "kcal": 798,
+      "protein": 33.6,
+      "carb": 112.7,
+      "fat": 21,
+      "items": [
+       {
+        "name": "小米粥",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 182,
+        "protein": 4.2,
+        "carb": 39.2,
+        "fat": 0.7
+       },
+       {
+        "name": "肉包子",
+        "type": "主食",
+        "portion": "2个",
+        "kcal": 504,
+        "protein": 19.6,
+        "carb": 72.8,
+        "fat": 12.6
+       },
+       {
+        "name": "茶叶蛋",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 9.8,
+        "carb": 0.7,
+        "fat": 7.7
+       }
+      ]
+     },
+     {
+      "meal": "夜宵",
+      "time": "20:30",
+      "kcal": 294,
+      "protein": 35,
+      "carb": 36.4,
+      "fat": 2.5,
+      "items": [
+       {
+        "name": "蛋白粉",
+        "type": "饮料",
+        "portion": "1勺",
+        "kcal": 168,
+        "protein": 33.6,
+        "carb": 4.2,
+        "fat": 2.1
+       },
+       {
+        "name": "香蕉",
+        "type": "菜",
+        "portion": "1根",
+        "kcal": 126,
+        "protein": 1.4,
+        "carb": 32.2,
+        "fat": 0.4
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:40",
+      "kcal": 1162,
+      "protein": 55.7,
+      "carb": 137.2,
+      "fat": 40.5,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1.5碗",
+        "kcal": 504,
+        "protein": 9.5,
+        "carb": 112,
+        "fat": 1.3
+       },
+       {
+        "name": "番茄炖牛腩",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 532,
+        "protein": 42,
+        "carb": 16.8,
+        "fat": 30.8
+       },
+       {
+        "name": "炒青菜",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 4.2,
+        "carb": 8.4,
+        "fat": 8.4
+       }
+      ]
+     },
+     {
+      "meal": "下午加餐",
+      "time": "15:20",
+      "kcal": 364,
+      "protein": 10.4,
+      "carb": 51.8,
+      "fat": 14.4,
+      "items": [
+       {
+        "name": "拿铁",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 22.4,
+        "fat": 14
+       },
+       {
+        "name": "苹果",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 0.6,
+        "carb": 29.4,
+        "fat": 0.4
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "19:00",
+      "kcal": 770,
+      "protein": 79.8,
+      "carb": 57.4,
+      "fat": 21.3,
+      "items": [
+       {
+        "name": "红薯",
+        "type": "主食",
+        "portion": "1个",
+        "kcal": 182,
+        "protein": 2.8,
+        "carb": 42,
+        "fat": 0.3
+       },
+       {
+        "name": "烤鸡胸",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 392,
+        "protein": 72.8,
+        "carb": 1.4,
+        "fat": 7.7
+       },
+       {
+        "name": "蔬菜沙拉",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 196,
+        "protein": 4.2,
+        "carb": 14,
+        "fat": 13.3
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3780,
+    "train": "长跑日",
+    "watchKcal": 780
+   },
+   {
+    "date": "2026-08-10",
+    "totalKcal": 2639,
+    "totalProtein": 188.9,
+    "totalCarb": 281.4,
+    "totalFat": 78.2,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "07:40",
+      "kcal": 609,
+      "protein": 29.4,
+      "carb": 79.8,
+      "fat": 18.6,
+      "items": [
+       {
+        "name": "全麦面包",
+        "type": "主食",
+        "portion": "2片",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 44.8,
+        "fat": 2.8
+       },
+       {
+        "name": "水煮蛋",
+        "type": "菜",
+        "portion": "2个",
+        "kcal": 224,
+        "protein": 18.2,
+        "carb": 1.4,
+        "fat": 15.4
+       },
+       {
+        "name": "香蕉",
+        "type": "菜",
+        "portion": "1根",
+        "kcal": 126,
+        "protein": 1.4,
+        "carb": 32.2,
+        "fat": 0.4
+       },
+       {
+        "name": "黑咖啡",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 7,
+        "protein": 0,
+        "carb": 1.4,
+        "fat": 0
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:20",
+      "kcal": 896,
+      "protein": 69.3,
+      "carb": 92.4,
+      "fat": 23.9,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 336,
+        "protein": 6.3,
+        "carb": 74.2,
+        "fat": 0.8
+       },
+       {
+        "name": "清蒸鲈鱼",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 364,
+        "protein": 56,
+        "carb": 1.4,
+        "fat": 14
+       },
+       {
+        "name": "蒜蓉菠菜",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 112,
+        "protein": 4.2,
+        "carb": 8.4,
+        "fat": 6.3
+       },
+       {
+        "name": "紫菜汤",
+        "type": "汤",
+        "portion": "1碗",
+        "kcal": 84,
+        "protein": 2.8,
+        "carb": 8.4,
+        "fat": 2.8
+       }
+      ]
+     },
+     {
+      "meal": "下午加餐",
+      "time": "15:20",
+      "kcal": 364,
+      "protein": 10.4,
+      "carb": 51.8,
+      "fat": 14.4,
+      "items": [
+       {
+        "name": "拿铁",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 22.4,
+        "fat": 14
+       },
+       {
+        "name": "苹果",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 0.6,
+        "carb": 29.4,
+        "fat": 0.4
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "19:00",
+      "kcal": 770,
+      "protein": 79.8,
+      "carb": 57.4,
+      "fat": 21.3,
+      "items": [
+       {
+        "name": "红薯",
+        "type": "主食",
+        "portion": "1个",
+        "kcal": 182,
+        "protein": 2.8,
+        "carb": 42,
+        "fat": 0.3
+       },
+       {
+        "name": "烤鸡胸",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 392,
+        "protein": 72.8,
+        "carb": 1.4,
+        "fat": 7.7
+       },
+       {
+        "name": "蔬菜沙拉",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 196,
+        "protein": 4.2,
+        "carb": 14,
+        "fat": 13.3
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3000,
+    "train": "休息日"
+   },
+   {
+    "date": "2026-08-11",
+    "totalKcal": 3024,
+    "totalProtein": 189.6,
+    "totalCarb": 332.5,
+    "totalFat": 95.8,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "07:35",
+      "kcal": 700,
+      "protein": 42,
+      "carb": 81.9,
+      "fat": 19.6,
+      "items": [
+       {
+        "name": "牛肉面",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 588,
+        "protein": 33.6,
+        "carb": 81.2,
+        "fat": 11.2
+       },
+       {
+        "name": "煎蛋",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 8.4,
+        "carb": 0.7,
+        "fat": 8.4
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:30",
+      "kcal": 980,
+      "protein": 90.3,
+      "carb": 95.2,
+      "fat": 22.5,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 336,
+        "protein": 6.3,
+        "carb": 74.2,
+        "fat": 0.8
+       },
+       {
+        "name": "香煎鸡胸",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 392,
+        "protein": 72.8,
+        "carb": 1.4,
+        "fat": 8.4
+       },
+       {
+        "name": "炒西兰花",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 5.6,
+        "carb": 11.2,
+        "fat": 6.3
+       },
+       {
+        "name": "番茄蛋汤",
+        "type": "汤",
+        "portion": "1碗",
+        "kcal": 126,
+        "protein": 5.6,
+        "carb": 8.4,
+        "fat": 7
+       }
+      ]
+     },
+     {
+      "meal": "下午加餐",
+      "time": "15:20",
+      "kcal": 364,
+      "protein": 10.4,
+      "carb": 51.8,
+      "fat": 14.4,
+      "items": [
+       {
+        "name": "拿铁",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 22.4,
+        "fat": 14
+       },
+       {
+        "name": "苹果",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 0.6,
+        "carb": 29.4,
+        "fat": 0.4
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "18:30",
+      "kcal": 980,
+      "protein": 46.9,
+      "carb": 103.6,
+      "fat": 39.3,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 336,
+        "protein": 6.3,
+        "carb": 74.2,
+        "fat": 0.8
+       },
+       {
+        "name": "青椒肉丝",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 448,
+        "protein": 28,
+        "carb": 16.8,
+        "fat": 29.4
+       },
+       {
+        "name": "凉拌豆腐",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 11.2,
+        "carb": 4.2,
+        "fat": 7
+       },
+       {
+        "name": "海带汤",
+        "type": "汤",
+        "portion": "1碗",
+        "kcal": 70,
+        "protein": 1.4,
+        "carb": 8.4,
+        "fat": 2.1
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3385,
+    "train": "力量日",
+    "watchKcal": 385
+   },
+   {
+    "date": "2026-08-12",
+    "totalKcal": 2800,
+    "totalProtein": 165.2,
+    "totalCarb": 312.9,
+    "totalFat": 87.2,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "07:50",
+      "kcal": 588,
+      "protein": 25.9,
+      "carb": 66.5,
+      "fat": 24.5,
+      "items": [
+       {
+        "name": "全麦吐司",
+        "type": "主食",
+        "portion": "2片",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 44.8,
+        "fat": 2.8
+       },
+       {
+        "name": "花生酱",
+        "type": "菜",
+        "portion": "1勺",
+        "kcal": 126,
+        "protein": 4.9,
+        "carb": 4.9,
+        "fat": 10.5
+       },
+       {
+        "name": "牛奶",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 210,
+        "protein": 11.2,
+        "carb": 16.8,
+        "fat": 11.2
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:35",
+      "kcal": 924,
+      "protein": 75.6,
+      "carb": 106.4,
+      "fat": 18.9,
+      "items": [
+       {
+        "name": "荞麦面",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 490,
+        "protein": 18.2,
+        "carb": 95.2,
+        "fat": 4.9
+       },
+       {
+        "name": "卤牛肉",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 350,
+        "protein": 56,
+        "carb": 5.6,
+        "fat": 8.4
+       },
+       {
+        "name": "拌黄瓜",
+        "type": "菜",
+        "portion": "少",
+        "kcal": 84,
+        "protein": 1.4,
+        "carb": 5.6,
+        "fat": 5.6
+       }
+      ]
+     },
+     {
+      "meal": "下午加餐",
+      "time": "15:40",
+      "kcal": 322,
+      "protein": 13.3,
+      "carb": 43.4,
+      "fat": 10.1,
+      "items": [
+       {
+        "name": "酸奶",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 266,
+        "protein": 12.6,
+        "carb": 29.4,
+        "fat": 9.8
+       },
+       {
+        "name": "蓝莓",
+        "type": "菜",
+        "portion": "1把",
+        "kcal": 56,
+        "protein": 0.7,
+        "carb": 14,
+        "fat": 0.3
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "18:40",
+      "kcal": 966,
+      "protein": 50.4,
+      "carb": 96.6,
+      "fat": 33.7,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 336,
+        "protein": 6.3,
+        "carb": 74.2,
+        "fat": 0.8
+       },
+       {
+        "name": "红烧鸡腿",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 420,
+        "protein": 39.2,
+        "carb": 8.4,
+        "fat": 25.2
+       },
+       {
+        "name": "炒时蔬",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 4.2,
+        "carb": 9.8,
+        "fat": 7
+       },
+       {
+        "name": "冬瓜汤",
+        "type": "汤",
+        "portion": "1碗",
+        "kcal": 84,
+        "protein": 0.7,
+        "carb": 4.2,
+        "fat": 0.7
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3520,
+    "train": "轻松跑",
+    "watchKcal": 520
+   },
+   {
+    "date": "2026-08-13",
+    "totalKcal": 3220,
+    "totalProtein": 174.7,
+    "totalCarb": 382.9,
+    "totalFat": 97.7,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "08:05",
+      "kcal": 798,
+      "protein": 33.6,
+      "carb": 112.7,
+      "fat": 21,
+      "items": [
+       {
+        "name": "小米粥",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 182,
+        "protein": 4.2,
+        "carb": 39.2,
+        "fat": 0.7
+       },
+       {
+        "name": "肉包子",
+        "type": "主食",
+        "portion": "2个",
+        "kcal": 504,
+        "protein": 19.6,
+        "carb": 72.8,
+        "fat": 12.6
+       },
+       {
+        "name": "茶叶蛋",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 9.8,
+        "carb": 0.7,
+        "fat": 7.7
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:40",
+      "kcal": 1162,
+      "protein": 55.7,
+      "carb": 137.2,
+      "fat": 40.5,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1.5碗",
+        "kcal": 504,
+        "protein": 9.5,
+        "carb": 112,
+        "fat": 1.3
+       },
+       {
+        "name": "番茄炖牛腩",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 532,
+        "protein": 42,
+        "carb": 16.8,
+        "fat": 30.8
+       },
+       {
+        "name": "炒青菜",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 4.2,
+        "carb": 8.4,
+        "fat": 8.4
+       }
+      ]
+     },
+     {
+      "meal": "夜宵",
+      "time": "20:30",
+      "kcal": 294,
+      "protein": 35,
+      "carb": 36.4,
+      "fat": 2.5,
+      "items": [
+       {
+        "name": "蛋白粉",
+        "type": "饮料",
+        "portion": "1勺",
+        "kcal": 168,
+        "protein": 33.6,
+        "carb": 4.2,
+        "fat": 2.1
+       },
+       {
+        "name": "香蕉",
+        "type": "菜",
+        "portion": "1根",
+        "kcal": 126,
+        "protein": 1.4,
+        "carb": 32.2,
+        "fat": 0.4
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "18:40",
+      "kcal": 966,
+      "protein": 50.4,
+      "carb": 96.6,
+      "fat": 33.7,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 336,
+        "protein": 6.3,
+        "carb": 74.2,
+        "fat": 0.8
+       },
+       {
+        "name": "红烧鸡腿",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 420,
+        "protein": 39.2,
+        "carb": 8.4,
+        "fat": 25.2
+       },
+       {
+        "name": "炒时蔬",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 4.2,
+        "carb": 9.8,
+        "fat": 7
+       },
+       {
+        "name": "冬瓜汤",
+        "type": "汤",
+        "portion": "1碗",
+        "kcal": 84,
+        "protein": 0.7,
+        "carb": 4.2,
+        "fat": 0.7
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3385,
+    "train": "力量日",
+    "watchKcal": 385
+   },
+   {
+    "date": "2026-08-14",
+    "totalKcal": 2723,
+    "totalProtein": 209.9,
+    "totalCarb": 284.2,
+    "totalFat": 76.8,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "07:40",
+      "kcal": 609,
+      "protein": 29.4,
+      "carb": 79.8,
+      "fat": 18.6,
+      "items": [
+       {
+        "name": "全麦面包",
+        "type": "主食",
+        "portion": "2片",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 44.8,
+        "fat": 2.8
+       },
+       {
+        "name": "水煮蛋",
+        "type": "菜",
+        "portion": "2个",
+        "kcal": 224,
+        "protein": 18.2,
+        "carb": 1.4,
+        "fat": 15.4
+       },
+       {
+        "name": "香蕉",
+        "type": "菜",
+        "portion": "1根",
+        "kcal": 126,
+        "protein": 1.4,
+        "carb": 32.2,
+        "fat": 0.4
+       },
+       {
+        "name": "黑咖啡",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 7,
+        "protein": 0,
+        "carb": 1.4,
+        "fat": 0
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:30",
+      "kcal": 980,
+      "protein": 90.3,
+      "carb": 95.2,
+      "fat": 22.5,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 336,
+        "protein": 6.3,
+        "carb": 74.2,
+        "fat": 0.8
+       },
+       {
+        "name": "香煎鸡胸",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 392,
+        "protein": 72.8,
+        "carb": 1.4,
+        "fat": 8.4
+       },
+       {
+        "name": "炒西兰花",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 5.6,
+        "carb": 11.2,
+        "fat": 6.3
+       },
+       {
+        "name": "番茄蛋汤",
+        "type": "汤",
+        "portion": "1碗",
+        "kcal": 126,
+        "protein": 5.6,
+        "carb": 8.4,
+        "fat": 7
+       }
+      ]
+     },
+     {
+      "meal": "下午加餐",
+      "time": "15:20",
+      "kcal": 364,
+      "protein": 10.4,
+      "carb": 51.8,
+      "fat": 14.4,
+      "items": [
+       {
+        "name": "拿铁",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 22.4,
+        "fat": 14
+       },
+       {
+        "name": "苹果",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 0.6,
+        "carb": 29.4,
+        "fat": 0.4
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "19:00",
+      "kcal": 770,
+      "protein": 79.8,
+      "carb": 57.4,
+      "fat": 21.3,
+      "items": [
+       {
+        "name": "红薯",
+        "type": "主食",
+        "portion": "1个",
+        "kcal": 182,
+        "protein": 2.8,
+        "carb": 42,
+        "fat": 0.3
+       },
+       {
+        "name": "烤鸡胸",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 392,
+        "protein": 72.8,
+        "carb": 1.4,
+        "fat": 7.7
+       },
+       {
+        "name": "蔬菜沙拉",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 196,
+        "protein": 4.2,
+        "carb": 14,
+        "fat": 13.3
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3520,
+    "train": "轻松跑",
+    "watchKcal": 520
+   },
+   {
+    "date": "2026-08-15",
+    "totalKcal": 4158,
+    "totalProtein": 220.2,
+    "totalCarb": 340.9,
+    "totalFat": 185,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "07:35",
+      "kcal": 700,
+      "protein": 42,
+      "carb": 81.9,
+      "fat": 19.6,
+      "items": [
+       {
+        "name": "牛肉面",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 588,
+        "protein": 33.6,
+        "carb": 81.2,
+        "fat": 11.2
+       },
+       {
+        "name": "煎蛋",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 8.4,
+        "carb": 0.7,
+        "fat": 8.4
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:30",
+      "kcal": 1638,
+      "protein": 119,
+      "carb": 61.6,
+      "fat": 93.8,
+      "items": [
+       {
+        "name": "牛肉火锅",
+        "type": "菜",
+        "portion": "多",
+        "kcal": 1120,
+        "protein": 77,
+        "carb": 28,
+        "fat": 70
+       },
+       {
+        "name": "毛肚",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 210,
+        "protein": 30.8,
+        "carb": 2.8,
+        "fat": 8.4
+       },
+       {
+        "name": "蔬菜拼盘",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 168,
+        "protein": 5.6,
+        "carb": 22.4,
+        "fat": 5.6
+       },
+       {
+        "name": "麻酱蘸料",
+        "type": "菜",
+        "portion": "少",
+        "kcal": 140,
+        "protein": 5.6,
+        "carb": 8.4,
+        "fat": 9.8
+       }
+      ]
+     },
+     {
+      "meal": "下午加餐",
+      "time": "15:40",
+      "kcal": 322,
+      "protein": 13.3,
+      "carb": 43.4,
+      "fat": 10.1,
+      "items": [
+       {
+        "name": "酸奶",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 266,
+        "protein": 12.6,
+        "carb": 29.4,
+        "fat": 9.8
+       },
+       {
+        "name": "蓝莓",
+        "type": "菜",
+        "portion": "1把",
+        "kcal": 56,
+        "protein": 0.7,
+        "carb": 14,
+        "fat": 0.3
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "19:30",
+      "kcal": 1498,
+      "protein": 45.9,
+      "carb": 154,
+      "fat": 61.5,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1.5碗",
+        "kcal": 504,
+        "protein": 9.5,
+        "carb": 112,
+        "fat": 1.3
+       },
+       {
+        "name": "红烧肉",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 672,
+        "protein": 30.8,
+        "carb": 16.8,
+        "fat": 53.2
+       },
+       {
+        "name": "清炒时蔬",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 4.2,
+        "carb": 9.8,
+        "fat": 7
+       },
+       {
+        "name": "啤酒",
+        "type": "饮料",
+        "portion": "1罐",
+        "kcal": 196,
+        "protein": 1.4,
+        "carb": 15.4,
+        "fat": 0
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3250,
+    "train": "聚餐日"
+   },
+   {
+    "date": "2026-08-16",
+    "totalKcal": 3388,
+    "totalProtein": 214.5,
+    "totalCarb": 395.5,
+    "totalFat": 99.7,
+    "meals": [
+     {
+      "meal": "早餐",
+      "time": "08:05",
+      "kcal": 798,
+      "protein": 33.6,
+      "carb": 112.7,
+      "fat": 21,
+      "items": [
+       {
+        "name": "小米粥",
+        "type": "主食",
+        "portion": "1碗",
+        "kcal": 182,
+        "protein": 4.2,
+        "carb": 39.2,
+        "fat": 0.7
+       },
+       {
+        "name": "肉包子",
+        "type": "主食",
+        "portion": "2个",
+        "kcal": 504,
+        "protein": 19.6,
+        "carb": 72.8,
+        "fat": 12.6
+       },
+       {
+        "name": "茶叶蛋",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 9.8,
+        "carb": 0.7,
+        "fat": 7.7
+       }
+      ]
+     },
+     {
+      "meal": "夜宵",
+      "time": "20:30",
+      "kcal": 294,
+      "protein": 35,
+      "carb": 36.4,
+      "fat": 2.5,
+      "items": [
+       {
+        "name": "蛋白粉",
+        "type": "饮料",
+        "portion": "1勺",
+        "kcal": 168,
+        "protein": 33.6,
+        "carb": 4.2,
+        "fat": 2.1
+       },
+       {
+        "name": "香蕉",
+        "type": "菜",
+        "portion": "1根",
+        "kcal": 126,
+        "protein": 1.4,
+        "carb": 32.2,
+        "fat": 0.4
+       }
+      ]
+     },
+     {
+      "meal": "午餐",
+      "time": "12:40",
+      "kcal": 1162,
+      "protein": 55.7,
+      "carb": 137.2,
+      "fat": 40.5,
+      "items": [
+       {
+        "name": "米饭",
+        "type": "主食",
+        "portion": "1.5碗",
+        "kcal": 504,
+        "protein": 9.5,
+        "carb": 112,
+        "fat": 1.3
+       },
+       {
+        "name": "番茄炖牛腩",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 532,
+        "protein": 42,
+        "carb": 16.8,
+        "fat": 30.8
+       },
+       {
+        "name": "炒青菜",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 126,
+        "protein": 4.2,
+        "carb": 8.4,
+        "fat": 8.4
+       }
+      ]
+     },
+     {
+      "meal": "下午加餐",
+      "time": "15:20",
+      "kcal": 364,
+      "protein": 10.4,
+      "carb": 51.8,
+      "fat": 14.4,
+      "items": [
+       {
+        "name": "拿铁",
+        "type": "饮料",
+        "portion": "1杯",
+        "kcal": 252,
+        "protein": 9.8,
+        "carb": 22.4,
+        "fat": 14
+       },
+       {
+        "name": "苹果",
+        "type": "菜",
+        "portion": "1个",
+        "kcal": 112,
+        "protein": 0.6,
+        "carb": 29.4,
+        "fat": 0.4
+       }
+      ]
+     },
+     {
+      "meal": "晚餐",
+      "time": "19:00",
+      "kcal": 770,
+      "protein": 79.8,
+      "carb": 57.4,
+      "fat": 21.3,
+      "items": [
+       {
+        "name": "红薯",
+        "type": "主食",
+        "portion": "1个",
+        "kcal": 182,
+        "protein": 2.8,
+        "carb": 42,
+        "fat": 0.3
+       },
+       {
+        "name": "烤鸡胸",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 392,
+        "protein": 72.8,
+        "carb": 1.4,
+        "fat": 7.7
+       },
+       {
+        "name": "蔬菜沙拉",
+        "type": "菜",
+        "portion": "中",
+        "kcal": 196,
+        "protein": 4.2,
+        "carb": 14,
+        "fat": 13.3
+       }
+      ]
+     }
+    ],
+    "targetKcal": 3780,
+    "train": "长跑日",
+    "watchKcal": 780
+   }
+  ],
+  "tdeeEst": 3321,
+  "tdeeCoverage": 112,
+  "tdeeCalendarDays": 25,
+  "tdeeExpected": 3300,
+  "skippedLines": 0
+ },
+ "load": {
+  "unit": "au",
+  "buckets": {
+   "endurance": "跑步/越野(未来: 游泳/骑车)",
+   "strength": "力量/Hyrox"
+  },
+  "days": [
+   {
+    "date": "2026-07-18",
+    "type": "长跑",
+    "runLoad": 105,
+    "strLoad": 0,
+    "atlRun": 14,
+    "atlStr": 0,
+    "ctl": 2,
+    "tsb": -12
+   },
+   {
+    "date": "2026-07-19",
+    "type": "休息",
+    "runLoad": 0,
+    "strLoad": 0,
+    "atlRun": 12,
+    "atlStr": 0,
+    "ctl": 2,
+    "tsb": -10
+   },
+   {
+    "date": "2026-07-20",
+    "type": "力量-下肢",
+    "runLoad": 0,
+    "strLoad": 127,
+    "atlRun": 11,
+    "atlStr": 9,
+    "ctl": 2,
+    "tsb": -8
+   },
+   {
+    "date": "2026-07-21",
+    "type": "轻松跑",
+    "runLoad": 44,
+    "strLoad": 0,
+    "atlRun": 15,
+    "atlStr": 8,
+    "ctl": 3,
+    "tsb": -12
+   },
+   {
+    "date": "2026-07-22",
+    "type": "力量-上肢",
+    "runLoad": 0,
+    "strLoad": 78,
+    "atlRun": 13,
+    "atlStr": 13,
+    "ctl": 3,
+    "tsb": -10
+   },
+   {
+    "date": "2026-07-23",
+    "type": "节奏跑",
+    "runLoad": 75,
+    "strLoad": 0,
+    "atlRun": 21,
+    "atlStr": 12,
+    "ctl": 5,
+    "tsb": -16
+   },
+   {
+    "date": "2026-07-24",
+    "type": "力量-下肢",
+    "runLoad": 0,
+    "strLoad": 156,
+    "atlRun": 18,
+    "atlStr": 22,
+    "ctl": 5,
+    "tsb": -14
+   },
+   {
+    "date": "2026-07-25",
+    "type": "长跑",
+    "runLoad": 105,
+    "strLoad": 0,
+    "atlRun": 30,
+    "atlStr": 20,
+    "ctl": 7,
+    "tsb": -23
+   },
+   {
+    "date": "2026-07-26",
+    "type": "休息",
+    "runLoad": 0,
+    "strLoad": 0,
+    "atlRun": 26,
+    "atlStr": 19,
+    "ctl": 7,
+    "tsb": -19
+   },
+   {
+    "date": "2026-07-27",
+    "type": "力量-下肢",
+    "runLoad": 0,
+    "strLoad": 127,
+    "atlRun": 22,
+    "atlStr": 27,
+    "ctl": 7,
+    "tsb": -16
+   },
+   {
+    "date": "2026-07-28",
+    "type": "轻松跑",
+    "runLoad": 44,
+    "strLoad": 0,
+    "atlRun": 25,
+    "atlStr": 25,
+    "ctl": 8,
+    "tsb": -18
+   },
+   {
+    "date": "2026-07-29",
+    "type": "力量-上肢",
+    "runLoad": 0,
+    "strLoad": 78,
+    "atlRun": 22,
+    "atlStr": 28,
+    "ctl": 8,
+    "tsb": -14
+   },
+   {
+    "date": "2026-07-30",
+    "type": "节奏跑",
+    "runLoad": 75,
+    "strLoad": 0,
+    "atlRun": 29,
+    "atlStr": 26,
+    "ctl": 9,
+    "tsb": -20
+   },
+   {
+    "date": "2026-07-31",
+    "type": "力量-下肢",
+    "runLoad": 0,
+    "strLoad": 156,
+    "atlRun": 25,
+    "atlStr": 35,
+    "ctl": 9,
+    "tsb": -16
+   },
+   {
+    "date": "2026-08-01",
+    "type": "越野",
+    "runLoad": 130,
+    "strLoad": 0,
+    "atlRun": 39,
+    "atlStr": 33,
+    "ctl": 12,
+    "tsb": -27
+   },
+   {
+    "date": "2026-08-02",
+    "type": "休息",
+    "runLoad": 0,
+    "strLoad": 0,
+    "atlRun": 34,
+    "atlStr": 31,
+    "ctl": 11,
+    "tsb": -22
+   },
+   {
+    "date": "2026-08-03",
+    "type": "力量-下肢",
+    "runLoad": 0,
+    "strLoad": 127,
+    "atlRun": 29,
+    "atlStr": 37,
+    "ctl": 11,
+    "tsb": -18
+   },
+   {
+    "date": "2026-08-04",
+    "type": "轻松跑",
+    "runLoad": 44,
+    "strLoad": 0,
+    "atlRun": 31,
+    "atlStr": 35,
+    "ctl": 12,
+    "tsb": -19
+   },
+   {
+    "date": "2026-08-05",
+    "type": "力量-上肢",
+    "runLoad": 0,
+    "strLoad": 78,
+    "atlRun": 27,
+    "atlStr": 38,
+    "ctl": 12,
+    "tsb": -15
+   },
+   {
+    "date": "2026-08-06",
+    "type": "节奏跑",
+    "runLoad": 75,
+    "strLoad": 0,
+    "atlRun": 34,
+    "atlStr": 35,
+    "ctl": 13,
+    "tsb": -20
+   },
+   {
+    "date": "2026-08-07",
+    "type": "力量-下肢",
+    "runLoad": 0,
+    "strLoad": 156,
+    "atlRun": 29,
+    "atlStr": 43,
+    "ctl": 13,
+    "tsb": -16
+   },
+   {
+    "date": "2026-08-08",
+    "type": "长跑",
+    "runLoad": 105,
+    "strLoad": 0,
+    "atlRun": 39,
+    "atlStr": 40,
+    "ctl": 15,
+    "tsb": -24
+   },
+   {
+    "date": "2026-08-09",
+    "type": "休息",
+    "runLoad": 0,
+    "strLoad": 0,
+    "atlRun": 34,
+    "atlStr": 38,
+    "ctl": 15,
+    "tsb": -19
+   },
+   {
+    "date": "2026-08-10",
+    "type": "力量-下肢",
+    "runLoad": 0,
+    "strLoad": 127,
+    "atlRun": 29,
+    "atlStr": 44,
+    "ctl": 14,
+    "tsb": -15
+   },
+   {
+    "date": "2026-08-11",
+    "type": "轻松跑",
+    "runLoad": 44,
+    "strLoad": 0,
+    "atlRun": 31,
+    "atlStr": 41,
+    "ctl": 15,
+    "tsb": -16
+   },
+   {
+    "date": "2026-08-12",
+    "type": "力量-上肢",
+    "runLoad": 0,
+    "strLoad": 78,
+    "atlRun": 27,
+    "atlStr": 43,
+    "ctl": 15,
+    "tsb": -13
+   },
+   {
+    "date": "2026-08-13",
+    "type": "节奏跑",
+    "runLoad": 75,
+    "strLoad": 0,
+    "atlRun": 34,
+    "atlStr": 40,
+    "ctl": 16,
+    "tsb": -17
+   },
+   {
+    "date": "2026-08-14",
+    "type": "力量-下肢",
+    "runLoad": 0,
+    "strLoad": 156,
+    "atlRun": 29,
+    "atlStr": 48,
+    "ctl": 16,
+    "tsb": -13
+   },
+   {
+    "date": "2026-08-15",
+    "type": "长跑",
+    "runLoad": 105,
+    "strLoad": 0,
+    "atlRun": 39,
+    "atlStr": 45,
+    "ctl": 18,
+    "tsb": -21
+   },
+   {
+    "date": "2026-08-16",
+    "type": "休息",
+    "runLoad": 0,
+    "strLoad": 0,
+    "atlRun": 34,
+    "atlStr": 42,
+    "ctl": 17,
+    "tsb": -17
+   }
+  ],
+  "acwr": 1.02
+ },
+ "tdeeExpected": 3300,
+ "macro": {
+  "name": "Road to Osaka",
+  "start": "2026-06-15",
+  "race": "2027-02-28",
+  "target": "2:52",
+  "targetPace": "4:04/km",
+  "pb": "2:58:32",
+  "phases": [
+   {
+    "n": 1,
+    "name": "越野基础",
+    "start": "2026-06-15",
+    "end": "2026-07-12",
+    "km": "45→60",
+    "long": "16→20"
+   },
+   {
+    "n": 2,
+    "name": "UTMB 专项",
+    "start": "2026-07-13",
+    "end": "2026-10-25",
+    "km": "60→84",
+    "long": "20→38 · 爬升"
+   },
+   {
+    "n": 3,
+    "name": "减量 + UTMB",
+    "start": "2026-10-26",
+    "end": "2026-11-29",
+    "km": "56→比赛",
+    "long": "24 · 16",
+    "race": "UTMB"
+   },
+   {
+    "n": 4,
+    "name": "恢复 + Hyrox",
+    "start": "2026-11-30",
+    "end": "2026-12-20",
+    "km": "24→36",
+    "long": "—",
+    "race": "Hyrox"
+   },
+   {
+    "n": 5,
+    "name": "大阪专项",
+    "start": "2026-12-21",
+    "end": "2027-02-07",
+    "km": "40→76",
+    "long": "26→34",
+    "strength": "Lower×1 maintenance + Upper A/B"
+   },
+   {
+    "n": 6,
+    "name": "大阪减量",
+    "start": "2027-02-08",
+    "end": "2027-02-28",
+    "km": "52→比赛",
+    "long": "24 · 16",
+    "race": "大阪"
+   }
+  ],
+  "longRuns": [
+   {
+    "date": "2026-08-22",
+    "km": 24
+   },
+   {
+    "date": "2026-09-05",
+    "km": 28
+   },
+   {
+    "date": "2026-09-26",
+    "km": 32
+   },
+   {
+    "date": "2026-10-10",
+    "km": 38
+   },
+   {
+    "date": "2026-10-31",
+    "km": 24
+   },
+   {
+    "date": "2026-11-28",
+    "km": 50,
+    "race": "UTMB"
+   },
+   {
+    "date": "2027-01-09",
+    "km": 26
+   },
+   {
+    "date": "2027-01-23",
+    "km": 30,
+    "mp": 12
+   },
+   {
+    "date": "2027-02-06",
+    "km": 34,
+    "mp": 18
+   },
+   {
+    "date": "2027-02-20",
+    "km": 18,
+    "mp": 8
+   },
+   {
+    "date": "2027-02-28",
+    "km": 42.2,
+    "race": "大阪"
+   }
+  ],
+  "milestones": [
+   {
+    "date": "2026-09-05",
+    "label": "Poles 首次上长距离",
+    "note": "爬升 900 m，练上坡省腿"
+   },
+   {
+    "date": "2026-10-10",
+    "label": "最长越野 38 km",
+    "note": "比赛营养完整演练"
+   },
+   {
+    "date": "2026-11-28",
+    "label": "UTMB 清迈 50K",
+    "note": "B 赛 · 体感跑"
+   },
+   {
+    "date": "2026-12-20",
+    "label": "Hyrox 巴黎",
+    "note": "Open 组 · 不追成绩"
+   },
+   {
+    "date": "2027-02-06",
+    "label": "全周期最长 34 km",
+    "note": "含 18 km 马配"
+   },
+   {
+    "date": "2027-02-28",
+    "label": "大阪马拉松",
+    "note": "A 赛 · 目标 2:52"
+   }
+  ],
+  "strategy": [
+   {
+    "race": "UTMB 清迈 50K · B 赛",
+    "text": "按体感和心率跑，上坡用杖，下坡保护股四。每小时 60–80 g 碳水。"
+   },
+   {
+    "race": "大阪 · A 赛",
+    "text": "前 30 km 稳在 4:04–4:06，30 km 后感觉好再提速；补给每 30 分钟一包胶。"
+   }
+  ]
+ },
+ "pulse": {
+  "rows": [
+   {
+    "mon": "2026-05-18",
+    "days": [
+     0,
+     7.2,
+     6,
+     8,
+     0,
+     13.2,
+     5.6
+    ],
+    "kind": "actual",
+    "race": null
+   },
+   {
+    "mon": "2026-05-25",
+    "days": [
+     0,
+     7.9,
+     6.6,
+     8.8,
+     0,
+     14.5,
+     6.2
+    ],
+    "kind": "actual",
+    "race": null
+   },
+   {
+    "mon": "2026-06-01",
+    "days": [
+     0,
+     8.3,
+     6.9,
+     9.2,
+     0,
+     15.2,
+     6.4
+    ],
+    "kind": "actual",
+    "race": null
+   },
+   {
+    "mon": "2026-06-08",
+    "days": [
+     0,
+     6.8,
+     5.7,
+     7.6,
+     0,
+     12.5,
+     5.3
+    ],
+    "kind": "actual",
+    "race": null
+   },
+   {
+    "mon": "2026-06-15",
+    "days": [
+     0,
+     8.6,
+     7.2,
+     9.6,
+     0,
+     15.8,
+     6.7
+    ],
+    "kind": "actual",
+    "race": null
+   },
+   {
+    "mon": "2026-06-22",
+    "days": [
+     0,
+     9.4,
+     7.8,
+     10.4,
+     0,
+     17.2,
+     7.3
+    ],
+    "kind": "actual",
+    "race": null
+   },
+   {
+    "mon": "2026-06-29",
+    "days": [
+     0,
+     10.4,
+     8.7,
+     11.6,
+     0,
+     19.1,
+     8.1
+    ],
+    "kind": "actual",
+    "race": null
+   },
+   {
+    "mon": "2026-07-06",
+    "days": [
+     0,
+     8.1,
+     6.8,
+     9,
+     0,
+     14.9,
+     6.3
+    ],
+    "kind": "actual",
+    "race": null
+   },
+   {
+    "mon": "2026-07-13",
+    "days": [
+     0,
+     10.8,
+     9,
+     12,
+     0,
+     19.8,
+     8.4
+    ],
+    "kind": "actual",
+    "race": null
+   },
+   {
+    "mon": "2026-07-20",
+    "days": [
+     0,
+     11.7,
+     9.8,
+     13,
+     0,
+     21.5,
+     9.1
+    ],
+    "kind": "actual",
+    "race": null
+   },
+   {
+    "mon": "2026-07-27",
+    "days": [
+     0,
+     12.2,
+     10.2,
+     13.6,
+     0,
+     22.4,
+     9.5
+    ],
+    "kind": "actual",
+    "race": null
+   },
+   {
+    "mon": "2026-08-03",
+    "days": [
+     0,
+     11.2,
+     9.3,
+     12.4,
+     0,
+     20.5,
+     8.7
+    ],
+    "kind": "actual",
+    "race": null
+   },
+   {
+    "mon": "2026-08-10",
+    "days": [
+     0,
+     11.5,
+     9.6,
+     12.8,
+     0,
+     21.1,
+     9
+    ],
+    "kind": "now",
+    "race": null
+   },
+   {
+    "mon": "2026-08-17",
+    "days": [
+     0,
+     11.9,
+     9.9,
+     13.2,
+     0,
+     21.8,
+     9.2
+    ],
+    "kind": "plan",
+    "race": null
+   },
+   {
+    "mon": "2026-08-24",
+    "days": [
+     0,
+     12.6,
+     10.5,
+     14,
+     0,
+     23.1,
+     9.8
+    ],
+    "kind": "plan",
+    "race": null
+   },
+   {
+    "mon": "2026-08-31",
+    "days": [
+     0,
+     10.1,
+     8.4,
+     11.2,
+     0,
+     18.5,
+     7.8
+    ],
+    "kind": "plan",
+    "race": null
+   },
+   {
+    "mon": "2026-09-07",
+    "days": [
+     0,
+     13,
+     10.8,
+     14.4,
+     0,
+     23.8,
+     10.1
+    ],
+    "kind": "plan",
+    "race": null
+   },
+   {
+    "mon": "2026-09-14",
+    "days": [
+     0,
+     13.7,
+     11.4,
+     15.2,
+     0,
+     25.1,
+     10.6
+    ],
+    "kind": "plan",
+    "race": null
+   },
+   {
+    "mon": "2026-09-21",
+    "days": [
+     0,
+     10.8,
+     9,
+     12,
+     0,
+     19.8,
+     8.4
+    ],
+    "kind": "plan",
+    "race": null
+   },
+   {
+    "mon": "2026-09-28",
+    "days": [
+     0,
+     14.4,
+     12,
+     16,
+     0,
+     26.4,
+     11.2
+    ],
+    "kind": "plan",
+    "race": null
+   },
+   {
+    "mon": "2026-10-05",
+    "days": [
+     0,
+     14.8,
+     12.3,
+     16.4,
+     0,
+     27.1,
+     11.5
+    ],
+    "kind": "est",
+    "race": null
+   },
+   {
+    "mon": "2026-10-12",
+    "days": [
+     0,
+     11.9,
+     9.9,
+     13.2,
+     0,
+     21.8,
+     9.2
+    ],
+    "kind": "est",
+    "race": null
+   },
+   {
+    "mon": "2026-10-19",
+    "days": [
+     0,
+     15.1,
+     12.6,
+     16.8,
+     0,
+     27.7,
+     11.8
+    ],
+    "kind": "est",
+    "race": null
+   },
+   {
+    "mon": "2026-10-26",
+    "days": [
+     0,
+     12.6,
+     10.5,
+     14,
+     0,
+     23.1,
+     9.8
+    ],
+    "kind": "est",
+    "race": null
+   },
+   {
+    "mon": "2026-11-02",
+    "days": [
+     0,
+     10.1,
+     8.4,
+     11.2,
+     0,
+     18.5,
+     7.8
+    ],
+    "kind": "est",
+    "race": null
+   },
+   {
+    "mon": "2026-11-09",
+    "days": [
+     0,
+     7.9,
+     6.6,
+     8.8,
+     0,
+     14.5,
+     6.2
+    ],
+    "kind": "est",
+    "race": null
+   },
+   {
+    "mon": "2026-11-16",
+    "days": [
+     0,
+     3.6,
+     3,
+     4,
+     0,
+     50,
+     0
+    ],
+    "kind": "est",
+    "race": "UTMB"
+   },
+   {
+    "mon": "2026-11-23",
+    "days": [
+     0,
+     4.3,
+     3.6,
+     4.8,
+     0,
+     7.9,
+     3.4
+    ],
+    "kind": "est",
+    "race": null
+   },
+   {
+    "mon": "2026-11-30",
+    "days": [
+     0,
+     6.5,
+     5.4,
+     7.2,
+     0,
+     11.9,
+     5
+    ],
+    "kind": "est",
+    "race": null
+   },
+   {
+    "mon": "2026-12-07",
+    "days": [
+     0,
+     5.4,
+     4.5,
+     6,
+     0,
+     0,
+     8
+    ],
+    "kind": "est",
+    "race": "Hyrox"
+   },
+   {
+    "mon": "2026-12-14",
+    "days": [
+     0,
+     7.2,
+     6,
+     8,
+     0,
+     13.2,
+     5.6
+    ],
+    "kind": "est",
+    "race": null
+   },
+   {
+    "mon": "2026-12-21",
+    "days": [
+     0,
+     9.4,
+     7.8,
+     10.4,
+     0,
+     17.2,
+     7.3
+    ],
+    "kind": "est",
+    "race": null
+   },
+   {
+    "mon": "2026-12-28",
+    "days": [
+     0,
+     10.8,
+     9,
+     12,
+     0,
+     19.8,
+     8.4
+    ],
+    "kind": "est",
+    "race": null
+   },
+   {
+    "mon": "2027-01-04",
+    "days": [
+     0,
+     11.9,
+     9.9,
+     13.2,
+     0,
+     21.8,
+     9.2
+    ],
+    "kind": "est",
+    "race": null
+   },
+   {
+    "mon": "2027-01-11",
+    "days": [
+     0,
+     10.1,
+     8.4,
+     11.2,
+     0,
+     18.5,
+     7.8
+    ],
+    "kind": "est",
+    "race": null
+   },
+   {
+    "mon": "2027-01-18",
+    "days": [
+     0,
+     13,
+     10.8,
+     14.4,
+     0,
+     23.8,
+     10.1
+    ],
+    "kind": "est",
+    "race": null
+   },
+   {
+    "mon": "2027-01-25",
+    "days": [
+     0,
+     13.7,
+     11.4,
+     15.2,
+     0,
+     25.1,
+     10.6
+    ],
+    "kind": "est",
+    "race": null
+   },
+   {
+    "mon": "2027-02-01",
+    "days": [
+     0,
+     11.5,
+     9.6,
+     12.8,
+     0,
+     21.1,
+     9
+    ],
+    "kind": "est",
+    "race": null
+   },
+   {
+    "mon": "2027-02-08",
+    "days": [
+     0,
+     9.4,
+     7.8,
+     10.4,
+     0,
+     17.2,
+     7.3
+    ],
+    "kind": "est",
+    "race": null
+   },
+   {
+    "mon": "2027-02-15",
+    "days": [
+     0,
+     7.6,
+     6.3,
+     8.4,
+     0,
+     13.9,
+     5.9
+    ],
+    "kind": "est",
+    "race": null
+   },
+   {
+    "mon": "2027-02-22",
+    "days": [
+     0,
+     2.9,
+     2.4,
+     3.2,
+     0,
+     0,
+     42.2
+    ],
+    "kind": "est",
+    "race": "Osaka"
+   }
+  ],
+  "phases": [
+   {
+    "from": "2026-05-18",
+    "to": "2026-07-12",
+    "t": "Base · 越野基础"
+   },
+   {
+    "from": "2026-07-13",
+    "to": "2026-10-25",
+    "t": "爬升期 · UTMB 专项"
+   },
+   {
+    "from": "2026-10-26",
+    "to": "2026-11-22",
+    "t": "减量"
+   },
+   {
+    "from": "2026-11-23",
+    "to": "2026-11-29",
+    "t": "UTMB 清迈 50K · 11/28",
+    "race": "B"
+   },
+   {
+    "from": "2026-11-30",
+    "to": "2026-12-20",
+    "t": "恢复 · Hyrox 巴黎 12/20"
+   },
+   {
+    "from": "2026-12-21",
+    "to": "2027-02-07",
+    "t": "大阪专项"
+   },
+   {
+    "from": "2027-02-08",
+    "to": "2027-02-21",
+    "t": "减量"
+   },
+   {
+    "from": "2027-02-22",
+    "to": "2027-02-28",
+    "t": "大阪 42.2 · 2/28",
+    "race": "A"
+   }
+  ],
+  "today": "2026-08-16"
+ },
+ "weeklyMinutes": [
+  {
+   "mon": "2026-05-18",
+   "run": 200,
+   "str": 210
+  },
+  {
+   "mon": "2026-05-25",
+   "run": 220,
+   "str": 190
+  },
+  {
+   "mon": "2026-06-01",
+   "run": 230,
+   "str": 200
+  },
+  {
+   "mon": "2026-06-08",
+   "run": 190,
+   "str": 140
+  },
+  {
+   "mon": "2026-06-15",
+   "run": 240,
+   "str": 220
+  },
+  {
+   "mon": "2026-06-22",
+   "run": 261,
+   "str": 210
+  },
+  {
+   "mon": "2026-06-29",
+   "run": 290,
+   "str": 230
+  },
+  {
+   "mon": "2026-07-06",
+   "run": 225,
+   "str": 150
+  },
+  {
+   "mon": "2026-07-13",
+   "run": 300,
+   "str": 220
+  },
+  {
+   "mon": "2026-07-20",
+   "run": 326,
+   "str": 210
+  },
+  {
+   "mon": "2026-07-27",
+   "run": 340,
+   "str": 200
+  },
+  {
+   "mon": "2026-08-03",
+   "run": 311,
+   "str": 190
+  },
+  {
+   "mon": "2026-08-10",
+   "run": 320,
+   "str": 210
+  }
+ ],
+ "effSeries": [
+  {
+   "date": "2026-06-01",
+   "eff": 1.28,
+   "hr": 150,
+   "paceSec": 313
+  },
+  {
+   "date": "2026-06-08",
+   "eff": 1.29,
+   "hr": 150,
+   "paceSec": 310
+  },
+  {
+   "date": "2026-06-15",
+   "eff": 1.27,
+   "hr": 150,
+   "paceSec": 315
+  },
+  {
+   "date": "2026-06-22",
+   "eff": 1.3,
+   "hr": 150,
+   "paceSec": 308
+  },
+  {
+   "date": "2026-06-29",
+   "eff": 1.31,
+   "hr": 150,
+   "paceSec": 305
+  },
+  {
+   "date": "2026-07-06",
+   "eff": 1.3,
+   "hr": 150,
+   "paceSec": 308
+  },
+  {
+   "date": "2026-07-13",
+   "eff": 1.32,
+   "hr": 150,
+   "paceSec": 303
+  },
+  {
+   "date": "2026-07-20",
+   "eff": 1.33,
+   "hr": 150,
+   "paceSec": 301
+  },
+  {
+   "date": "2026-07-27",
+   "eff": 1.31,
+   "hr": 150,
+   "paceSec": 305
+  },
+  {
+   "date": "2026-08-03",
+   "eff": 1.34,
+   "hr": 150,
+   "paceSec": 299
+  },
+  {
+   "date": "2026-08-10",
+   "eff": 1.35,
+   "hr": 150,
+   "paceSec": 296
+  },
+  {
+   "date": "2026-08-17",
+   "eff": 1.36,
+   "hr": 150,
+   "paceSec": 294
+  }
+ ],
+ "weightLatest": {
+  "date": "2026-08-15",
+  "kg": 66.5,
+  "note": "-1.5kg total"
+ },
+ "passcode": null
+}
